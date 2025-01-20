@@ -13,10 +13,6 @@ sources:
             tests:
               - unique
               - not_null
-          - name: industry
-            tests:
-              - not_null
-              - unique
           - name: subscription_plan
             tests:
               - not_null
@@ -28,6 +24,7 @@ sources:
                   values: ['Small size', 'Medium size']     
           - name: industry
             tests:
+              - not_null
               - accepted_values:
                   values: ['Technology', 'Healthcare', 'Finance', 'Retail', 
                            'Manufacturing', 'Education', 'Entertainment']     

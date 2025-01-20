@@ -56,11 +56,11 @@ class DataGenerator:
         elif company_size == "Medium size":
             return np.random.choice(
                 ["Free", "Individual pro", "Business pro"],
-                p=[0.2, 0.3, 0.5]  # Probabilities for medium size
+                p=[0.2, 0.3, 0.5]  
             )
 
     
-    def generate_customer_data(self, num_rows: int = 1000) -> pd.DataFrame:
+    def generate_customer_data(self, num_rows: int = 1000):
         """generate dimension table called dim_customer"""
         
         data = {
@@ -81,7 +81,7 @@ class DataGenerator:
         return df
     
     def generate_date_dimension(self, start_date: datetime.date, 
-                              end_date: datetime.date) -> pd.DataFrame:
+                              end_date: datetime.date):
         """Generate dimension table called dim_date"""
         date_list = [start_date + datetime.timedelta(days=x) 
                     for x in range((end_date - start_date).days + 1)]
@@ -101,7 +101,7 @@ class DataGenerator:
         df["weekday"] = df["weekday"].replace(weekday_map)
         return df
     
-    def generate_location_data(self, num_records: int = 300) -> pd.DataFrame:
+    def generate_location_data(self, num_records: int = 300):
         """Generate dimension table called dim_location"""
         locations = {}
         for i in range(1, num_records + 1):
@@ -121,7 +121,6 @@ class DataGenerator:
         dim_customer = pd.read_csv(self.config.dimcustomer_save_path)
         dim_date = pd.read_csv(self.config.dimdate_save_path)
         
-        # Convert date column to datetime once for better performance
         dim_date['date'] = pd.to_datetime(dim_date['date'])
         dim_customer['registration_date'] = pd.to_datetime(dim_customer['registration_date'])
         
@@ -213,44 +212,36 @@ class Datapipeline:
         self.generator = DataGenerator(config)
         
     def create_directory_structure(self):
-        """Create necessary directories"""
         os.makedirs(self.config.base_path, exist_ok=True)
         
     def generate_and_save_dimensions_and_facts(self):
         """Generate and save all dimension tables"""
-        # Generate and save customer dimension
+       
         dim_customer = self.generator.generate_customer_data()
         dim_customer.to_csv(self.config.dimcustomer_save_path, index=False)
         
-        # Generate and save date dimension
         dim_date = self.generator.generate_date_dimension(
             datetime.date(2023, 1, 1), 
             datetime.date(2024, 12, 31)
         )
         dim_date.to_csv(self.config.dimdate_save_path, index=False)
         
-        # Generate and save location dimension
         dim_location = self.generator.generate_location_data()
         dim_location.to_csv(self.config.dimlocation_save_path, index=False)
         
-        
-        # Generate and save fact interactions
         fact_interactions = self.generator.generate_fact_interaction()
         fact_interactions.to_csv(self.config.factinteraction_save_path, index=False)
         
 
 def main():
     """Main execution function"""
-    # Initialize configuration
+    
     config = Datapipelineconfig()
     
-    # Initialize data warehouse
     store = Datapipeline(config)
     
-    # Create directory structure
     store.create_directory_structure()
     
-    # Generate and save dimension tables
     store.generate_and_save_dimensions_and_facts()
 
 if __name__ == "__main__":

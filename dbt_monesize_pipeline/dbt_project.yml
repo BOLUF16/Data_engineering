@@ -34,3 +34,9 @@ models:
     staging_layer:
       +materialized: table
       snowflake_warehouse: dbt_monesize
+    intermediate_layer:
+      +materialized: table
+      snowflake_warehouse: dbt_monesize
+    mart:
+      +materialized: table
+      snowflake_warehouse: dbt_monesize
