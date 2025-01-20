@@ -1,0 +1,601 @@
+location_id,address,city,state,country
+1,"6814 Christine Mount
+{'id': 109525, 'name': 'Chynadiyovo', 'state_id': 4670, 'state_code': '21', 'state_name': 'Zakarpatska Oblast', 'country_id': 230, 'country_code': 'UA', 'country_name': 'Ukraine', 'latitude': '48.48179000', 'longitude': '22.82170000', 'wikiDataId': 'Q1093428'}, NY 30491",Ostrovskiy Rayon,Pskov,Russia
+2,"18802 Lisa Pike
+{'id': 112550, 'name': 'Bonsall', 'state_id': 1416, 'state_code': 'CA', 'state_name': 'California', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '33.28892000', 'longitude': '-117.22559000', 'wikiDataId': 'Q2393153'}, CA 95869",Province du Loroum,Nord,Burkina Faso
+3,"6906 Beltran Ports Apt. 046
+{'id': 81627, 'name': 'Bato', 'state_id': 1354, 'state_code': 'MDR', 'state_name': 'Oriental Mindoro', 'country_id': 174, 'country_code': 'PH', 'country_name': 'Philippines', 'latitude': '10.82500000', 'longitude': '119.47100000', 'wikiDataId': 'Q31490556'}, PR 78491",Cass County,Michigan,United States
+4,"PSC 4403, Box 9287
+APO AA 64689",Scottsdale,Tasmania,Australia
+5,"979 Mueller Motorway Apt. 916
+{'id': 74000, 'name': 'San Lorenzo Chiautzingo', 'state_id': 3476, 'state_code': 'PUE', 'state_name': 'Puebla', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '19.20432000', 'longitude': '-98.46747000', 'wikiDataId': 'Q5095282'}, VA 39217",Moca,Espaillat,Dominican Republic
+6,"7124 Jennifer Courts
+{'id': 66507, 'name': 'Matara', 'state_id': 2801, 'state_code': '3', 'state_name': 'Southern', 'country_id': 208, 'country_code': 'LK', 'country_name': 'Sri Lanka', 'latitude': '5.94851000', 'longitude': '80.53528000', 'wikiDataId': 'Q13360574'}, OK 92880",Piątek,Łódź,Poland
+7,"093 Carter Shore
+{'id': 19828, 'name': 'Liaocheng', 'state_id': 2252, 'state_code': 'SD', 'state_name': 'Shandong', 'country_id': 45, 'country_code': 'CN', 'country_name': 'China', 'latitude': '36.45596000', 'longitude': '115.97766000', 'wikiDataId': 'Q373564'}, MD 99882",Oberneukirchen,Upper Austria,Austria
+8,"414 Harmon Branch
+{'id': 59335, 'name': 'Rescaldina', 'state_id': 1705, 'state_code': '25', 'state_name': 'Lombardy', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '45.62002000', 'longitude': '8.94878000', 'wikiDataId': 'Q18439645'}, MH 38213",Twin Lakes,Colorado,United States
+9,"923 Farrell Squares Apt. 688
+{'id': 79920, 'name': 'Whangamata', 'state_id': 4061, 'state_code': 'WKO', 'state_name': 'Waikato', 'country_id': 158, 'country_code': 'NZ', 'country_name': 'New Zealand', 'latitude': '-37.20000000', 'longitude': '175.86667000', 'wikiDataId': 'Q917136'}, VA 53401",Westerly,Rhode Island,United States
+10,"813 Olson Ways
+{'id': 45611, 'name': 'Rostrenen', 'state_id': 4807, 'state_code': 'BRE', 'state_name': 'Bretagne', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '48.23696000', 'longitude': '-3.31442000', 'wikiDataId': 'Q328771'}, UT 55632",Kurihara Shi,Miyagi,Japan
+11,"21567 Kimberly Rapids Suite 005
+{'id': 96928, 'name': 'Vânători', 'state_id': 4751, 'state_code': 'MH', 'state_name': 'Mehedinți', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '44.24278000', 'longitude': '22.92889000', 'wikiDataId': 'Q965720'}, CA 13218",Tres Picos,Chiapas,Mexico
+12,"3667 Christopher Courts Suite 336
+{'id': 100016, 'name': 'Muromtsevskiy Rayon', 'state_id': 1846, 'state_code': 'OMS', 'state_name': 'Omsk', 'country_id': 182, 'country_code': 'RU', 'country_name': 'Russia', 'latitude': '56.41667000', 'longitude': '75.50000000', 'wikiDataId': 'Q1653576'}, ND 12141",Catmon,Eastern Visayas,Philippines
+13,"7878 Fields Fords
+{'id': 49063, 'name': 'Cold Norton', 'state_id': 2336, 'state_code': 'ENG', 'state_name': 'England', 'country_id': 232, 'country_code': 'GB', 'country_name': 'United Kingdom', 'latitude': '51.67209000', 'longitude': '0.66997000', 'wikiDataId': 'Q2458232'}, HI 78948",Linabuan,Antique,Philippines
+14,"500 Garcia Heights Suite 852
+{'id': 94128, 'name': 'Dăneşti', 'state_id': 4749, 'state_code': 'HR', 'state_name': 'Harghita', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '46.51667000', 'longitude': '25.75000000', 'wikiDataId': 'Q875814'}, NY 95952",Stromsburg,Nebraska,United States
+15,"360 Nicholas Roads Apt. 954
+{'id': 6146, 'name': 'Mango Hill', 'state_id': 3905, 'state_code': 'QLD', 'state_name': 'Queensland', 'country_id': 14, 'country_code': 'AU', 'country_name': 'Australia', 'latitude': '-27.24349000', 'longitude': '153.02384000', 'wikiDataId': 'Q14935483'}, AK 83207",Cabo Rojo Municipio,Puerto Rico,United States
+16,"9249 Claudia Estate
+{'id': 92045, 'name': 'Comuna Hărău', 'state_id': 4721, 'state_code': 'HD', 'state_name': 'Hunedoara', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '45.90555000', 'longitude': '22.98136000', 'wikiDataId': 'Q1034251'}, MP 16977",Sleepy Hollow,New York,United States
+17,"91988 Margaret Avenue
+{'id': 95679, 'name': 'Ostrovu', 'state_id': 4729, 'state_code': 'PH', 'state_name': 'Prahova', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '45.20351000', 'longitude': '25.90345000', 'wikiDataId': 'Q12136789'}, MA 12623",Amphoe Wanon Niwat,Sakon Nakhon,Thailand
+18,"90803 Caitlyn Ridges
+{'id': 76244, 'name': 'Yoshib', 'state_id': 3451, 'state_code': 'CHP', 'state_name': 'Chiapas', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '16.84528000', 'longitude': '-92.44611000', 'wikiDataId': 'Q20294538'}, AS 37385",Descartes,Centre-Val de Loire,France
+19,"21821 Cole Pass Apt. 878
+{'id': 104722, 'name': 'Kayar', 'state_id': 484, 'state_code': 'TH', 'state_name': 'Thiès Region', 'country_id': 195, 'country_code': 'SN', 'country_name': 'Senegal', 'latitude': '14.91893000', 'longitude': '-17.11978000', 'wikiDataId': 'Q847677'}, IN 44255",Kersaint-Plabennec,Bretagne,France
+20,"4151 Sharon Ford
+{'id': 947, 'name': 'Departamento de Monteros', 'state_id': 3637, 'state_code': 'T', 'state_name': 'Tucumán', 'country_id': 11, 'country_code': 'AR', 'country_name': 'Argentina', 'latitude': '-27.16667000', 'longitude': '-65.58333000', 'wikiDataId': 'Q1190848'}, AZ 95713",Kelso,Scotland,United Kingdom
+21,"743 Pamela Prairie Suite 386
+{'id': 146670, 'name': 'Valea Seacă', 'state_id': 4915, 'state_code': 'MS', 'state_name': 'Mureș', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '46.74536500', 'longitude': '24.40752500', 'wikiDataId': 'Q1301456'}, AR 28443",Las Vegas,Santa Bárbara,Honduras
+22,"259 Walters Overpass Apt. 371
+{'id': 35463, 'name': 'Moclín', 'state_id': 5098, 'state_code': 'GR', 'state_name': 'Granada', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '37.33959000', 'longitude': '-3.78651000', 'wikiDataId': 'Q593637'}, NC 32966",Hartington,Nebraska,United States
+23,"46215 Jonathan Parkways Apt. 665
+{'id': 72543, 'name': 'Otzoloapan', 'state_id': 3450, 'state_code': 'MEX', 'state_name': 'Estado de México', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '19.11728000', 'longitude': '-100.29684000', 'wikiDataId': 'Q3308560'}, MH 94336",Guayalejo,Veracruz de Ignacio de la Llave,Mexico
+24,"1684 Thomas Wells
+{'id': 113483, 'name': 'Carter County', 'state_id': 1454, 'state_code': 'TN', 'state_name': 'Tennessee', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '36.29272000', 'longitude': '-82.12743000', 'wikiDataId': 'Q494990'}, CO 17716",Departamento de Malargüe,Mendoza,Argentina
+25,"2646 James Island
+{'id': 66035, 'name': 'Cacoa/Babonneau', 'state_id': 3758, 'state_code': '02', 'state_name': 'Castries', 'country_id': 186, 'country_code': 'LC', 'country_name': 'Saint Lucia', 'latitude': '13.98875000', 'longitude': '-60.95113000', 'wikiDataId': 'Q569439'}, MN 54394",Santander,Cantabria,Spain
+26,"9112 Lang Flats
+{'id': 75156, 'name': 'Tabasco', 'state_id': 3462, 'state_code': 'ZAC', 'state_name': 'Zacatecas', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '21.86286000', 'longitude': '-102.91105000', 'wikiDataId': 'Q3889100'}, NV 86642",Smolenskiy Rayon,Altai,Russia
+27,"393 Kristina Fields Suite 230
+{'id': 48514, 'name': 'Bingham', 'state_id': 2336, 'state_code': 'ENG', 'state_name': 'England', 'country_id': 232, 'country_code': 'GB', 'country_name': 'United Kingdom', 'latitude': '52.94978000', 'longitude': '-0.95907000', 'wikiDataId': 'Q783269'}, WV 77815",Goúmero,West Greece,Greece
+28,"526 Brenda Locks
+{'id': 44929, 'name': 'Peyrestortes', 'state_id': 4799, 'state_code': 'OCC', 'state_name': 'Occitanie', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '42.75480000', 'longitude': '2.85232000', 'wikiDataId': 'Q664928'}, MI 52192",Delevan,New York,United States
+29,"3265 Gonzalez Loaf
+{'id': 25105, 'name': 'Estorf', 'state_id': 3008, 'state_code': 'NI', 'state_name': 'Lower Saxony', 'country_id': 82, 'country_code': 'DE', 'country_name': 'Germany', 'latitude': '52.58850000', 'longitude': '9.14147000', 'wikiDataId': 'Q566061'}, AL 79664",Andlersdorf,Lower Austria,Austria
+30,"551 Robinson Port Apt. 643
+{'id': 127631, 'name': 'Thurston County', 'state_id': 1462, 'state_code': 'WA', 'state_name': 'Washington', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '46.92950000', 'longitude': '-122.83208000', 'wikiDataId': 'Q113773'}, TX 24581",Yuma,Colorado,United States
+31,"8185 Hodges Spur
+{'id': 102335, 'name': 'Vokhma', 'state_id': 1910, 'state_code': 'KOS', 'state_name': 'Kostroma', 'country_id': 182, 'country_code': 'RU', 'country_name': 'Russia', 'latitude': '58.93030000', 'longitude': '46.75859000', 'wikiDataId': 'Q37955221'}, IL 35591",Zadovga,Poltavska oblast,Ukraine
+32,"USS Rowe
+FPO AP 59771",Tozeur,Tozeur,Tunisia
+33,"938 Lowe Key Apt. 527
+{'id': 35322, 'name': 'Masegoso de Tajuña', 'state_id': 5107, 'state_code': 'GU', 'state_name': 'Guadalajara', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '40.82552000', 'longitude': '-2.69532000', 'wikiDataId': 'Q1654362'}, PR 46276",Aldeia Nova de São Bento,Beja,Portugal
+34,"USNS Nelson
+FPO AE 77174",Siqueros,Sinaloa,Mexico
+35,"0733 Duran Port Suite 410
+{'id': 1469, 'name': 'Santa Rosa de Tastil', 'state_id': 3643, 'state_code': 'A', 'state_name': 'Salta', 'country_id': 11, 'country_code': 'AR', 'country_name': 'Argentina', 'latitude': '-24.45166000', 'longitude': '-65.97452000', 'wikiDataId': 'Q370723'}, TX 40036",Gregory Hills,New South Wales,Australia
+36,"6622 Steele Extension Suite 528
+{'id': 40814, 'name': 'Charolles', 'state_id': 4825, 'state_code': 'BFC', 'state_name': 'Bourgogne-Franche-Comté', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '46.43451000', 'longitude': '4.27527000', 'wikiDataId': 'Q213509'}, TX 79017",Khezri Dashtebayaz,South Khorasan,Iran
+37,"28452 Kimberly Mountain
+{'id': 79332, 'name': 'Lunde', 'state_id': 1024, 'state_code': '38', 'state_name': 'Vestfold og Telemark', 'country_id': 165, 'country_code': 'NO', 'country_name': 'Norway', 'latitude': '59.29832000', 'longitude': '9.10268000', 'wikiDataId': 'Q845911'}, MD 78063",Loma de Gato,Central Luzon,Philippines
+38,"35735 Anderson Club Apt. 423
+{'id': 35791, 'name': 'Navianos de Valverde', 'state_id': 1161, 'state_code': 'ZA', 'state_name': 'Zamora', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '41.95319000', 'longitude': '-5.81781000', 'wikiDataId': 'Q1769113'}, VA 77851",Borá,São Paulo,Brazil
+39,"028 Gibson Glens Apt. 588
+{'id': 93650, 'name': 'Coropceni', 'state_id': 4735, 'state_code': 'IS', 'state_name': 'Iași', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '46.94193000', 'longitude': '27.83710000', 'wikiDataId': 'Q12113195'}, DC 46274",Elmalı,Antalya,Turkey
+40,"0719 Harvey Crescent
+{'id': 42881, 'name': 'La Séauve-sur-Semène', 'state_id': 4798, 'state_code': 'ARA', 'state_name': 'Auvergne-Rhône-Alpes', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '45.29554000', 'longitude': '4.25023000', 'wikiDataId': 'Q193349'}, GU 59254",Hov,Innlandet,Norway
+41,"10832 Martinez Village Apt. 798
+{'id': 45208, 'name': 'Pontenx-les-Forges', 'state_id': 4795, 'state_code': 'NAQ', 'state_name': 'Nouvelle-Aquitaine', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '44.24134000', 'longitude': '-1.12095000', 'wikiDataId': 'Q818116'}, GA 71138",Kracheh,Kratie,Cambodia
+42,"PSC 3235, Box 7266
+APO AA 14361",Erétria,Central Greece,Greece
+43,"61662 Holland Ville Suite 045
+{'id': 110628, 'name': 'Tselinnoye', 'state_id': 4689, 'state_code': '43', 'state_name': 'Autonomous Republic of Crimea', 'country_id': 230, 'country_code': 'UA', 'country_name': 'Ukraine', 'latitude': '45.90633000', 'longitude': '34.18063000', 'wikiDataId': 'Q2991904'}, GA 65851",Manhica,Maputo,Mozambique
+44,"8672 Natalie Mission Apt. 085
+{'id': 124749, 'name': 'Punta Gorda Isles', 'state_id': 1436, 'state_code': 'FL', 'state_name': 'Florida', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '26.91756000', 'longitude': '-82.07842000', 'wikiDataId': 'Q953543'}, CO 51477",Pedreguer,Alicante,Spain
+45,"023 Watson Ridge
+{'id': 88676, 'name': 'Zakroczym', 'state_id': 1637, 'state_code': 'MZ', 'state_name': 'Mazovia', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '52.43351000', 'longitude': '20.61207000', 'wikiDataId': 'Q144773'}, UT 05389",Guacamaya,Santa Bárbara,Honduras
+46,"457 Brian Spring
+{'id': 152352, 'name': 'Vallejera', 'state_id': 1146, 'state_code': 'BU', 'state_name': 'Burgos', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '42.18283890', 'longitude': '-4.15329590', 'wikiDataId': 'Q1642688'}, FM 57705",Malapatan,Soccsksargen,Philippines
+47,"025 Matthew Light Suite 201
+{'id': 1530, 'name': 'Vera', 'state_id': 3641, 'state_code': 'S', 'state_name': 'Santa Fe', 'country_id': 11, 'country_code': 'AR', 'country_name': 'Argentina', 'latitude': '-29.45930000', 'longitude': '-60.21261000', 'wikiDataId': 'Q2540770'}, NM 44414",Canapi,Alagoas,Brazil
+48,"9680 John Crossing Apt. 323
+{'id': 94985, 'name': 'Mihalţ', 'state_id': 4724, 'state_code': 'AB', 'state_name': 'Alba', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '46.15000000', 'longitude': '23.73333000', 'wikiDataId': 'Q731535'}, UT 23831",Muzaffarnagar,Uttar Pradesh,India
+49,"27788 Cox Lake
+{'id': 87184, 'name': 'Nowe Miasteczko', 'state_id': 1631, 'state_code': 'LB', 'state_name': 'Lubusz', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '51.69097000', 'longitude': '15.73174000', 'wikiDataId': 'Q431628'}, IA 27575",Département de l'Ariège,Occitanie,France
+50,"503 Amy Rapids Apt. 974
+{'id': 137741, 'name': 'Cintolese', 'state_id': 1664, 'state_code': '52', 'state_name': 'Tuscany', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '43.84606000', 'longitude': '10.82644000', 'wikiDataId': 'Q18490817'}, MS 26232",Krasnopavlivka,Kharkivska oblast,Ukraine
+51,"989 Miller Wall
+{'id': 67622, 'name': 'Ntossoni', 'state_id': 254, 'state_code': '3', 'state_name': 'Sikasso', 'country_id': 134, 'country_code': 'ML', 'country_name': 'Mali', 'latitude': '12.53040000', 'longitude': '-5.77003000', 'wikiDataId': 'Q3334119'}, PW 26955",Kabacan,Bukidnon,Philippines
+52,"2652 Taylor Causeway
+{'id': 17731, 'name': 'Eggiwil', 'state_id': 1645, 'state_code': 'BE', 'state_name': 'Bern', 'country_id': 214, 'country_code': 'CH', 'country_name': 'Switzerland', 'latitude': '46.87575000', 'longitude': '7.79567000', 'wikiDataId': 'Q22376488'}, AS 50479",Esperanza,Puebla,Mexico
+53,"Unit 7077 Box 4172
+DPO AE 56371",Čair,Čair,North Macedonia
+54,"058 Schmitt Brook Apt. 501
+{'id': 27506, 'name': 'Molschleben', 'state_id': 3015, 'state_code': 'TH', 'state_name': 'Thuringia', 'country_id': 82, 'country_code': 'DE', 'country_name': 'Germany', 'latitude': '51.00000000', 'longitude': '10.78333000', 'wikiDataId': 'Q552260'}, MD 92705",Sixmile Run,New Jersey,United States
+55,"PSC 4421, Box 4339
+APO AA 92868",Lampa,Puno,Peru
+56,"00447 Gonzalez Village Apt. 871
+{'id': 105602, 'name': 'Amphoe Mueang Uthai Thani', 'state_id': 3551, 'state_code': '61', 'state_name': 'Uthai Thani', 'country_id': 219, 'country_code': 'TH', 'country_name': 'Thailand', 'latitude': '15.40857000', 'longitude': '100.02794000', 'wikiDataId': 'Q476111'}, GU 74870",Goalpara,Assam,India
+57,"96906 Barrett Point
+{'id': 126997, 'name': 'Statesboro', 'state_id': 1455, 'state_code': 'GA', 'state_name': 'Georgia', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '32.44879000', 'longitude': '-81.78317000', 'wikiDataId': 'Q988919'}, IL 94964",Amphoe Chae Hom,Lampang,Thailand
+58,"305 Cameron Passage Apt. 139
+{'id': 100615, 'name': 'Pervomayskaya', 'state_id': 1893, 'state_code': 'CE', 'state_name': 'Chechen', 'country_id': 182, 'country_code': 'RU', 'country_name': 'Russia', 'latitude': '43.40331000', 'longitude': '45.52343000', 'wikiDataId': 'Q37959191'}, MO 58003",Calafat,Dolj,Romania
+59,"33956 Chad Stravenue
+{'id': 135024, 'name': 'Sarbisheh', 'state_id': 3930, 'state_code': '29', 'state_name': 'South Khorasan', 'country_id': 103, 'country_code': 'IR', 'country_name': 'Iran', 'latitude': '32.40000000', 'longitude': '60.08333000', 'wikiDataId': 'Q5099954'}, MP 67247",Uni,Kirov,Russia
+60,"46995 Mccullough Locks
+{'id': 88303, 'name': 'Szczyrk', 'state_id': 1623, 'state_code': 'SL', 'state_name': 'Silesia', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '49.71724000', 'longitude': '19.03183000', 'wikiDataId': 'Q581609'}, AS 19226",Lytle,Texas,United States
+61,"457 Bowers Spring Suite 775
+{'id': 10216, 'name': 'Amontada', 'state_id': 2016, 'state_code': 'CE', 'state_name': 'Ceará', 'country_id': 31, 'country_code': 'BR', 'country_name': 'Brazil', 'latitude': '-3.27941000', 'longitude': '-39.80582000', 'wikiDataId': 'Q947378'}, WY 44727",Tamulte de las Sabanas,Tabasco,Mexico
+62,"Unit 1904 Box 5054
+DPO AE 19960",Karlshuld,Bavaria,Germany
+63,"6349 Brenda Rue Apt. 807
+{'id': 117802, 'name': 'Gunnison', 'state_id': 1450, 'state_code': 'CO', 'state_name': 'Colorado', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '38.54582000', 'longitude': '-106.92532000', 'wikiDataId': 'Q222762'}, DE 33048",Putat,Bataan,Philippines
+64,"5501 Williams Curve
+{'id': 56039, 'name': 'Tiszanagyfalu', 'state_id': 1045, 'state_code': 'SZ', 'state_name': 'Szabolcs-Szatmár-Bereg County', 'country_id': 99, 'country_code': 'HU', 'country_name': 'Hungary', 'latitude': '48.10000000', 'longitude': '21.48333000', 'wikiDataId': 'Q1028269'}, OK 35330",Cabano,Antique,Philippines
+65,"6492 Anna Freeway
+{'id': 76748, 'name': 'Abraka', 'state_id': 316, 'state_code': 'DE', 'state_name': 'Delta', 'country_id': 161, 'country_code': 'NG', 'country_name': 'Nigeria', 'latitude': '5.79023000', 'longitude': '6.10473000', 'wikiDataId': 'Q13479516'}, SC 95923",Pfedelbach,Baden-Württemberg,Germany
+66,"Unit 3360 Box 1568
+DPO AP 40608",Šlapanice,Jihomoravský kraj,Czech Republic
+67,"070 Bradshaw Cliff Suite 530
+{'id': 60804, 'name': 'Sestriere', 'state_id': 1702, 'state_code': '21', 'state_name': 'Piedmont', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '44.95864000', 'longitude': '6.87751000', 'wikiDataId': 'Q18488731'}, TX 80117",Gutenzell-Hürbel,Baden-Württemberg,Germany
+68,"468 Joshua Inlet Suite 263
+{'id': 59903, 'name': 'San Fedele Superiore', 'state_id': 1705, 'state_code': '25', 'state_name': 'Lombardy', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '45.96667000', 'longitude': '9.06667000', 'wikiDataId': 'Q18487808'}, MI 24912",Woods Cross,Utah,United States
+69,"4746 Michael Lodge Apt. 745
+{'id': 55157, 'name': 'Thiotte', 'state_id': 4124, 'state_code': 'SE', 'state_name': 'Sud-Est', 'country_id': 95, 'country_code': 'HT', 'country_name': 'Haiti', 'latitude': '18.24384000', 'longitude': '-71.84157000', 'wikiDataId': 'Q2241009'}, NH 12336",Ballarat East,Victoria,Australia
+70,"92147 Donna Park Suite 155
+{'id': 5697, 'name': 'Inverell', 'state_id': 3909, 'state_code': 'NSW', 'state_name': 'New South Wales', 'country_id': 14, 'country_code': 'AU', 'country_name': 'Australia', 'latitude': '-29.31526000', 'longitude': '151.04187000', 'wikiDataId': 'Q753404'}, GA 98008",Wilkes-Barre,Pennsylvania,United States
+71,"897 Stacey Crest
+{'id': 125612, 'name': 'Saint Charles', 'state_id': 1451, 'state_code': 'MO', 'state_name': 'Missouri', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '38.78394000', 'longitude': '-90.48123000', 'wikiDataId': 'Q773432'}, NJ 31632",Eye,England,United Kingdom
+72,"4775 Mary Dale
+{'id': 138813, 'name': 'Gallipoli', 'state_id': 1688, 'state_code': '75', 'state_name': 'Apulia', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '40.05594000', 'longitude': '17.99088000', 'wikiDataId': 'Q18486942'}, UT 45334",Rosales,Sonora,Mexico
+73,"35359 Isaac Mountains
+{'id': 121513, 'name': 'McIntosh County', 'state_id': 1455, 'state_code': 'GA', 'state_name': 'Georgia', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '31.48381000', 'longitude': '-81.37557000', 'wikiDataId': 'Q492652'}, MN 47033",Santa Catarina Cuixtla,Oaxaca,Mexico
+74,"8862 Murray Burgs
+{'id': 4346, 'name': 'Boorowa', 'state_id': 3909, 'state_code': 'NSW', 'state_name': 'New South Wales', 'country_id': 14, 'country_code': 'AU', 'country_name': 'Australia', 'latitude': '-34.43661000', 'longitude': '148.71634000', 'wikiDataId': 'Q2910543'}, AK 39102",The Oaks,New South Wales,Australia
+75,"633 Vincent Brook
+{'id': 129508, 'name': 'Woodbury', 'state_id': 1435, 'state_code': 'CT', 'state_name': 'Connecticut', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '41.54454000', 'longitude': '-73.20900000', 'wikiDataId': 'Q607420'}, GA 53032",Songkhla,Songkhla,Thailand
+76,"6093 Brittany Forks Suite 515
+{'id': 148008, 'name': 'San Jorge', 'state_id': 1322, 'state_code': '08', 'state_name': 'Eastern Visayas', 'country_id': 174, 'country_code': 'PH', 'country_name': 'Philippines', 'latitude': '11.98333333', 'longitude': '124.81666667', 'wikiDataId': 'Q816396'}, OK 34677",Powiat krakowski,Lesser Poland,Poland
+77,"PSC 2486, Box 4127
+APO AE 18469",Chutove,Poltavska oblast,Ukraine
+78,"8334 Corey Expressway Suite 195
+{'id': 110838, 'name': 'Zernovoye', 'state_id': 4689, 'state_code': '43', 'state_name': 'Autonomous Republic of Crimea', 'country_id': 230, 'country_code': 'UA', 'country_name': 'Ukraine', 'latitude': '45.32364000', 'longitude': '34.48099000', 'wikiDataId': 'Q4189998'}, WV 70365",Gorganu,Arges,Romania
+79,"538 Brooks Station Suite 407
+{'id': 152599, 'name': 'Grado', 'state_id': 1160, 'state_code': 'O', 'state_name': 'Asturias', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '43.38708370', 'longitude': '-6.07439030', 'wikiDataId': 'Q395412'}, ID 80115",Wischhafen,Lower Saxony,Germany
+80,"3772 Tyler Parkways Suite 224
+{'id': 37184, 'name': 'Saúca', 'state_id': 5107, 'state_code': 'GU', 'state_name': 'Guadalajara', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '41.03098000', 'longitude': '-2.52905000', 'wikiDataId': 'Q1766058'}, ME 44736",Plaine Verte,Port Louis,Mauritius
+81,"354 Luke Path
+{'id': 58997, 'name': 'Pragelato-Ruà', 'state_id': 1702, 'state_code': '21', 'state_name': 'Piedmont', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '45.01364000', 'longitude': '6.94161000', 'wikiDataId': 'Q18444264'}, ID 55675",Orangetree,Florida,United States
+82,"546 Ryan Junctions
+{'id': 101828, 'name': 'Terekli-Mekteb', 'state_id': 1850, 'state_code': 'DA', 'state_name': 'Dagestan', 'country_id': 182, 'country_code': 'RU', 'country_name': 'Russia', 'latitude': '44.16710000', 'longitude': '45.86975000', 'wikiDataId': 'Q37956550'}, MN 82911",Gatak,Jawa Tengah,Indonesia
+83,"9392 Taylor Knoll Apt. 467
+{'id': 54700, 'name': 'Lovreć', 'state_id': 725, 'state_code': '17', 'state_name': 'Split-Dalmatia', 'country_id': 55, 'country_code': 'HR', 'country_name': 'Croatia', 'latitude': '43.48761000', 'longitude': '16.98632000', 'wikiDataId': 'Q1284350'}, MI 71140",Alàs i Cerc,Lleida,Spain
+84,"720 Nathan Mill
+{'id': 67719, 'name': 'Hanh', 'state_id': 1975, 'state_code': '041', 'state_name': 'Khövsgöl', 'country_id': 146, 'country_code': 'MN', 'country_name': 'Mongolia', 'latitude': '51.50265000', 'longitude': '100.66395000', 'wikiDataId': 'Q2607700'}, AK 51874",Eleven Miles,Saint Thomas,Jamaica
+85,"534 Jessica Street
+{'id': 121420, 'name': 'Mauldin', 'state_id': 1443, 'state_code': 'SC', 'state_name': 'South Carolina', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '34.77873000', 'longitude': '-82.31012000', 'wikiDataId': 'Q965679'}, KY 69880",Lakelands,New South Wales,Australia
+86,"0088 Sherman Plains
+{'id': 55120, 'name': 'Les Anglais', 'state_id': 4122, 'state_code': 'SD', 'state_name': 'Sud', 'country_id': 95, 'country_code': 'HT', 'country_name': 'Haiti', 'latitude': '18.30540000', 'longitude': '-74.21968000', 'wikiDataId': 'Q2229438'}, WV 76357",Prince George,Virginia,United States
+87,"9082 Misty Tunnel
+{'id': 56002, 'name': 'Tabi Járás', 'state_id': 1035, 'state_code': 'SO', 'state_name': 'Somogy County', 'country_id': 99, 'country_code': 'HU', 'country_name': 'Hungary', 'latitude': '46.68037000', 'longitude': '18.00560000', 'wikiDataId': 'Q853866'}, PR 62935",Belyy Gorodok,Tver,Russia
+88,"9666 Penny Brook Suite 933
+{'id': 143778, 'name': 'Umerkot', 'state_id': 3176, 'state_code': 'PB', 'state_name': 'Punjab', 'country_id': 167, 'country_code': 'PK', 'country_name': 'Pakistan', 'latitude': '25.36138889', 'longitude': '69.73611111', 'wikiDataId': 'Q2625910'}, MS 53676",Cássia,Minas Gerais,Brazil
+89,"USS Cardenas
+FPO AP 48950",Neckarbischofsheim,Baden-Württemberg,Germany
+90,"4158 Jackson Vista
+{'id': 14729, 'name': 'Serra Negra', 'state_id': 2021, 'state_code': 'SP', 'state_name': 'São Paulo', 'country_id': 31, 'country_code': 'BR', 'country_name': 'Brazil', 'latitude': '-22.61222000', 'longitude': '-46.70056000', 'wikiDataId': 'Q1439179'}, FM 70883",Cârlogani,Olt,Romania
+91,"Unit 0104 Box 3522
+DPO AP 15605",Clacton-on-Sea,England,United Kingdom
+92,"8012 John Pine
+{'id': 69096, 'name': 'Chixtontic', 'state_id': 3451, 'state_code': 'CHP', 'state_name': 'Chiapas', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '16.89080000', 'longitude': '-92.45793000', 'wikiDataId': 'Q20211546'}, OH 60967",Oeiras do Pará,Pará,Brazil
+93,"PSC 3776, Box 1168
+APO AE 09161",Potosí,Rivas,Nicaragua
+94,"USNS Scott
+FPO AA 66708",Baressa,Sardinia,Italy
+95,"Unit 9415 Box 5393
+DPO AE 73617",Devin,Smolyan,Bulgaria
+96,"5547 Shannon Center
+{'id': 140933, 'name': 'Oppeano', 'state_id': 1753, 'state_code': '34', 'state_name': 'Veneto', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '45.30331000', 'longitude': '11.18005000', 'wikiDataId': 'Q3882791'}, WA 86067",Villa Licenciado Jesús Terán (Calvillito),Aguascalientes,Mexico
+97,"USNV Schaefer
+FPO AE 86419",Lincoln County,New Mexico,United States
+98,"70819 Daniel Point
+{'id': 137760, 'name': 'Cissone', 'state_id': 1702, 'state_code': '21', 'state_name': 'Piedmont', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '44.56314000', 'longitude': '8.03044000', 'wikiDataId': 'Q18461630'}, AK 56537",Doftana,Prahova,Romania
+99,"8901 Lynch Row Apt. 983
+{'id': 19410, 'name': 'Chuzhou', 'state_id': 2251, 'state_code': 'AH', 'state_name': 'Anhui', 'country_id': 45, 'country_code': 'CN', 'country_name': 'China', 'latitude': '32.32194000', 'longitude': '118.29778000', 'wikiDataId': 'Q114045'}, AR 64899",José Mariano Jiménez,Chihuahua,Mexico
+100,"904 Garcia Loaf
+{'id': 94053, 'name': 'Drăgușeni', 'state_id': 4735, 'state_code': 'IS', 'state_name': 'Iași', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '46.90116000', 'longitude': '27.51260000', 'wikiDataId': 'Q2718529'}, KY 14612",Etxarri-Aranatz,Navarra,Spain
+101,"929 Hunter Village
+{'id': 90879, 'name': 'Comuna Apele Vii', 'state_id': 4742, 'state_code': 'DJ', 'state_name': 'Dolj', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '44.06658000', 'longitude': '24.06611000', 'wikiDataId': 'Q2468564'}, MT 18879",Chaumont-sur-Loire,Centre-Val de Loire,France
+102,"650 Whitaker Ranch Suite 037
+{'id': 130485, 'name': 'Huyện Tân Phú', 'state_id': 3821, 'state_code': '39', 'state_name': 'Đồng Nai', 'country_id': 240, 'country_code': 'VN', 'country_name': 'Vietnam', 'latitude': '11.39867000', 'longitude': '107.39976000', 'wikiDataId': 'Q3711512'}, ME 37387",Comuna Schitu-Goleşti,Arges,Romania
+103,"533 Daniel Plaza Apt. 770
+{'id': 99811, 'name': 'Maslovka', 'state_id': 1906, 'state_code': 'VOR', 'state_name': 'Voronezh', 'country_id': 182, 'country_code': 'RU', 'country_name': 'Russia', 'latitude': '51.55346000', 'longitude': '39.23573000', 'wikiDataId': 'Q35725898'}, DE 93977",Anabad,Razavi Khorasan,Iran
+104,"6073 Wilson Station
+{'id': 140378, 'name': 'Monte San Vito', 'state_id': 1670, 'state_code': '57', 'state_name': 'Marche', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '43.60056000', 'longitude': '13.26817000', 'wikiDataId': 'Q18453228'}, PA 81657",Palmerston,Australian Capital Territory,Australia
+105,"864 Megan Lodge
+{'id': 129546, 'name': 'Woodrow', 'state_id': 1452, 'state_code': 'NY', 'state_name': 'New York', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '40.54344000', 'longitude': '-74.19764000', 'wikiDataId': 'Q1020589'}, VA 20093",Loitz,Mecklenburg-Vorpommern,Germany
+106,"314 Savannah Terrace Suite 621
+{'id': 14976, 'name': 'São José do Jacuípe', 'state_id': 2002, 'state_code': 'BA', 'state_name': 'Bahia', 'country_id': 31, 'country_code': 'BR', 'country_name': 'Brazil', 'latitude': '-11.46833000', 'longitude': '-39.90377000', 'wikiDataId': 'Q1807737'}, NC 65733",Monte Plata,Monte Plata,Dominican Republic
+107,"709 Hammond Parks Apt. 230
+{'id': 80033, 'name': 'Capira', 'state_id': 1394, 'state_code': '10', 'state_name': 'Panamá Oeste', 'country_id': 170, 'country_code': 'PA', 'country_name': 'Panama', 'latitude': '8.75636000', 'longitude': '-79.87996000', 'wikiDataId': 'Q804144'}, LA 73042",Fossby,Viken,Norway
+108,"05288 Martinez Point
+{'id': 154317, 'name': 'Ayacucho', 'state_id': 3656, 'state_code': 'B', 'state_name': 'Buenos Aires', 'country_id': 11, 'country_code': 'AR', 'country_name': 'Argentina', 'latitude': '-36.97372280', 'longitude': '-59.08902220', 'wikiDataId': 'Q783091'}, MP 10319",Mercy-le-Bas,Grand-Est,France
+109,"3684 Kristen Causeway
+{'id': 32083, 'name': 'Alcanar', 'state_id': 1203, 'state_code': 'T', 'state_name': 'Tarragona', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '40.54316000', 'longitude': '0.48082000', 'wikiDataId': 'Q1770483'}, CO 28272",Domodossola,Piedmont,Italy
+110,"608 Navarro Canyon
+{'id': 60208, 'name': 'San Polomatese', 'state_id': 1695, 'state_code': '67', 'state_name': 'Molise', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '41.45932000', 'longitude': '14.49343000', 'wikiDataId': 'Q18499700'}, GU 65243",Merritt,British Columbia,Canada
+111,"87426 Jesus Plaza
+{'id': 13058, 'name': 'Matias Olímpio', 'state_id': 2008, 'state_code': 'PI', 'state_name': 'Piauí', 'country_id': 31, 'country_code': 'BR', 'country_name': 'Brazil', 'latitude': '-3.68774000', 'longitude': '-42.60695000', 'wikiDataId': 'Q1894372'}, WA 84074",Bema,Lombardy,Italy
+112,"77596 Kevin Throughway
+{'id': 81912, 'name': 'Burias', 'state_id': 1310, 'state_code': '12', 'state_name': 'Soccsksargen', 'country_id': 174, 'country_code': 'PH', 'country_name': 'Philippines', 'latitude': '5.71778000', 'longitude': '125.25361000', 'wikiDataId': 'Q31519427'}, NM 93923",OR Tambo District Municipality,Eastern Cape,South Africa
+113,"56224 Anderson Gardens Suite 765
+{'id': 28315, 'name': 'Plattenburg', 'state_id': 3013, 'state_code': 'BB', 'state_name': 'Brandenburg', 'country_id': 82, 'country_code': 'DE', 'country_name': 'Germany', 'latitude': '52.95919000', 'longitude': '12.02951000', 'wikiDataId': 'Q637036'}, NE 75784",Nikora,Gujarat,India
+114,"4407 Flowers Centers
+{'id': 10798, 'name': 'Brejolândia', 'state_id': 2002, 'state_code': 'BA', 'state_name': 'Bahia', 'country_id': 31, 'country_code': 'BR', 'country_name': 'Brazil', 'latitude': '-12.41237000', 'longitude': '-43.92822000', 'wikiDataId': 'Q1808002'}, TX 65797",Bastia,Veneto,Italy
+115,"5122 Kristin Fort Apt. 737
+{'id': 116728, 'name': 'Fort Meade', 'state_id': 1436, 'state_code': 'FL', 'state_name': 'Florida', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '27.75225000', 'longitude': '-81.80175000', 'wikiDataId': 'Q2153424'}, WV 87702",Melicucco,Calabria,Italy
+116,"384 Brandon Corner Suite 961
+{'id': 146005, 'name': 'Pagsanahan Norte', 'state_id': 1324, 'state_code': 'ABR', 'state_name': 'Abra', 'country_id': 174, 'country_code': 'PH', 'country_name': 'Philippines', 'latitude': '17.91916667', 'longitude': '120.44583333', 'wikiDataId': 'Q31457806'}, KY 67121",Łapsze Niżne,Lesser Poland,Poland
+117,"1439 Downs Drive
+{'id': 129724, 'name': 'Ypsilanti', 'state_id': 1426, 'state_code': 'MI', 'state_name': 'Michigan', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '42.24115000', 'longitude': '-83.61299000', 'wikiDataId': 'Q1021681'}, SD 69949",Bonneuil-Matours,Nouvelle-Aquitaine,France
+118,"72245 Anita Land
+{'id': 86256, 'name': 'Dębowiec', 'state_id': 1623, 'state_code': 'SL', 'state_name': 'Silesia', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '49.81406000', 'longitude': '18.72062000', 'wikiDataId': 'Q5321059'}, AR 15976",Cana,Virginia,United States
+119,"78757 Alvarado Junction
+{'id': 25342, 'name': 'Gachenbach', 'state_id': 3009, 'state_code': 'BY', 'state_name': 'Bavaria', 'country_id': 82, 'country_code': 'DE', 'country_name': 'Germany', 'latitude': '48.50000000', 'longitude': '11.23333000', 'wikiDataId': 'Q510090'}, SC 96096",Ecquevilly,Île-de-France,France
+120,"9137 Heidi Falls Apt. 567
+{'id': 104922, 'name': 'Santiago de María', 'state_id': 4129, 'state_code': 'US', 'state_name': 'Usulután', 'country_id': 66, 'country_code': 'SV', 'country_name': 'El Salvador', 'latitude': '13.48333000', 'longitude': '-88.46667000', 'wikiDataId': 'Q1438464'}, WV 03897",Marikina,Metro Manila,Philippines
+121,"8357 Martha Knoll
+{'id': 21346, 'name': 'San Carlos', 'state_id': 2898, 'state_code': 'COR', 'state_name': 'Córdoba', 'country_id': 48, 'country_code': 'CO', 'country_name': 'Colombia', 'latitude': '8.79577000', 'longitude': '-75.69947000', 'wikiDataId': 'Q1440812'}, VI 43762",Izernore,Auvergne-Rhône-Alpes,France
+122,"9452 Hill Row Apt. 747
+{'id': 93555, 'name': 'Comuna Ştefăneşti', 'state_id': 4757, 'state_code': 'VL', 'state_name': 'Vâlcea', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '44.60541000', 'longitude': '24.23338000', 'wikiDataId': 'Q3915320'}, OR 41128",Abū Tīj,Asyut,Egypt
+123,"387 Christopher Creek
+{'id': 21870, 'name': 'Jagüey Grande', 'state_id': 284, 'state_code': '04', 'state_name': 'Matanzas', 'country_id': 56, 'country_code': 'CU', 'country_name': 'Cuba', 'latitude': '22.52694000', 'longitude': '-81.12861000', 'wikiDataId': 'Q1563'}, MA 91961",Avaré,São Paulo,Brazil
+124,"04004 Michael Terrace Apt. 148
+{'id': 148230, 'name': 'Yusuhara', 'state_id': 4924, 'state_code': '39', 'state_name': 'Kōchi', 'country_id': 109, 'country_code': 'JP', 'country_name': 'Japan', 'latitude': '33.39194444', 'longitude': '132.92694444', 'wikiDataId': 'Q1206286'}, MA 86985",Río Cuarto,Córdoba,Argentina
+125,"081 Maxwell Avenue Apt. 702
+{'id': 70676, 'name': 'Heroica Ciudad de Ejutla de Crespo', 'state_id': 3448, 'state_code': 'OAX', 'state_name': 'Oaxaca', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '16.57835000', 'longitude': '-96.73079000', 'wikiDataId': 'Q17266451'}, NE 92211",South Gastonia,North Carolina,United States
+126,"68741 Gallagher Pine
+{'id': 26096, 'name': 'Herten', 'state_id': 3017, 'state_code': 'NW', 'state_name': 'North Rhine-Westphalia', 'country_id': 82, 'country_code': 'DE', 'country_name': 'Germany', 'latitude': '51.59638000', 'longitude': '7.14387000', 'wikiDataId': 'Q3985'}, MS 90091",Jujutla,Ahuachapán,El Salvador
+127,"21038 Oconnell Fords
+{'id': 12947, 'name': 'Mangaratiba', 'state_id': 1997, 'state_code': 'RJ', 'state_name': 'Rio de Janeiro', 'country_id': 31, 'country_code': 'BR', 'country_name': 'Brazil', 'latitude': '-22.95972000', 'longitude': '-44.04056000', 'wikiDataId': 'Q988680'}, AL 38540",Concepción,Chiapas,Mexico
+128,"27642 Travis Inlet
+{'id': 138677, 'name': 'Fossato di Vico', 'state_id': 1683, 'state_code': '55', 'state_name': 'Umbria', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '43.29644000', 'longitude': '12.76121000', 'wikiDataId': 'Q18432505'}, OR 22724",Palmarejo,Puerto Rico,United States
+129,"2982 Hill Street
+{'id': 42447, 'name': 'Huttenheim', 'state_id': 4820, 'state_code': 'GES', 'state_name': 'Grand-Est', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '48.35864000', 'longitude': '7.57833000', 'wikiDataId': 'Q273015'}, NH 19185",Kyelang,Himachal Pradesh,India
+130,"717 Sonya Brook Suite 638
+{'id': 131293, 'name': 'Vredefort', 'state_id': 932, 'state_code': 'FS', 'state_name': 'Free State', 'country_id': 204, 'country_code': 'ZA', 'country_name': 'South Africa', 'latitude': '-27.00805000', 'longitude': '27.36460000', 'wikiDataId': 'Q1689721'}, MI 03840",Dongjak-gu,Seoul,South Korea
+131,"2660 Medina Trafficway Suite 080
+{'id': 143463, 'name': 'Manteigas', 'state_id': 4859, 'state_code': '09', 'state_name': 'Guarda', 'country_id': 177, 'country_code': 'PT', 'country_name': 'Portugal', 'latitude': '40.40000000', 'longitude': '-7.53333333', 'wikiDataId': 'Q986093'}, DE 54320",Prudhoe Bay,Alaska,United States
+132,"805 Davis Dam
+{'id': 52832, 'name': 'Lagkadás', 'state_id': 2125, 'state_code': 'B', 'state_name': 'Central Macedonia', 'country_id': 85, 'country_code': 'GR', 'country_name': 'Greece', 'latitude': '40.75000000', 'longitude': '23.06667000', 'wikiDataId': 'Q2643058'}, GA 01671",Lisignago,Trentino-South Tyrol,Italy
+133,"45652 Simon Hollow
+{'id': 52482, 'name': 'Archaía Olympía', 'state_id': 2096, 'state_code': 'G', 'state_name': 'West Greece', 'country_id': 85, 'country_code': 'GR', 'country_name': 'Greece', 'latitude': '37.64788000', 'longitude': '21.62710000', 'wikiDataId': 'Q632542'}, CT 19299",Wildemann,Lower Saxony,Germany
+134,"2534 Martinez Rapid Apt. 316
+{'id': 5169, 'name': 'Ermington', 'state_id': 3909, 'state_code': 'NSW', 'state_name': 'New South Wales', 'country_id': 14, 'country_code': 'AU', 'country_name': 'Australia', 'latitude': '-33.81483000', 'longitude': '151.05467000', 'wikiDataId': 'Q5392481'}, MO 01205",Arcos,Aveiro,Portugal
+135,"107 Samuel Mountain
+{'id': 131725, 'name': 'Dharmanagar', 'state_id': 4038, 'state_code': 'TR', 'state_name': 'Tripura', 'country_id': 101, 'country_code': 'IN', 'country_name': 'India', 'latitude': '24.36667000', 'longitude': '92.16667000', 'wikiDataId': 'Q1258127'}, OR 79178",Anchor Point,Alaska,United States
+136,"3144 Freeman Turnpike Apt. 424
+{'id': 109244, 'name': 'Nanhyanga', 'state_id': 1476, 'state_code': '17', 'state_name': 'Mtwara', 'country_id': 218, 'country_code': 'TZ', 'country_name': 'Tanzania', 'latitude': '-10.80000000', 'longitude': '39.55000000', 'wikiDataId': 'Q20622164'}, KY 86766",Lugus,Autonomous Region in Muslim Mindanao,Philippines
+137,"1862 Dan Park Suite 656
+{'id': 117440, 'name': 'Grain Valley', 'state_id': 1451, 'state_code': 'MO', 'state_name': 'Missouri', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '39.01501000', 'longitude': '-94.19856000', 'wikiDataId': 'Q954871'}, NM 75095",Galax,Virginia,United States
+138,"831 Breanna Vista Suite 620
+{'id': 22886, 'name': 'Olomouc', 'state_id': 4589, 'state_code': '71', 'state_name': 'Olomoucký kraj', 'country_id': 58, 'country_code': 'CZ', 'country_name': 'Czech Republic', 'latitude': '49.59552000', 'longitude': '17.25175000', 'wikiDataId': 'Q81137'}, PA 65244",Chhatapur,Bihar,India
+139,"90645 Thornton Mill
+{'id': 8775, 'name': 'Gedinne', 'state_id': 1380, 'state_code': 'WAL', 'state_name': 'Wallonia', 'country_id': 22, 'country_code': 'BE', 'country_name': 'Belgium', 'latitude': '49.98037000', 'longitude': '4.93674000', 'wikiDataId': 'Q21768986'}, MI 08549",Wells,Nevada,United States
+140,"4121 Edwards Plain
+{'id': 74512, 'name': 'San Ángel', 'state_id': 3469, 'state_code': 'GUA', 'state_name': 'Guanajuato', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '20.90193000', 'longitude': '-101.91895000', 'wikiDataId': 'Q20295679'}, GU 45100",Aresing,Bavaria,Germany
+141,"3461 Richardson Isle
+{'id': 40384, 'name': 'Bully-les-Mines', 'state_id': 4828, 'state_code': 'HDF', 'state_name': 'Hauts-de-France', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '50.44380000', 'longitude': '2.72703000', 'wikiDataId': 'Q34784394'}, HI 12274",Minas de Marcona,Ica,Peru
+142,"33029 Rebecca Mission
+{'id': 87320, 'name': 'Ozimek', 'state_id': 1622, 'state_code': 'OP', 'state_name': 'Upper Silesia', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '50.67944000', 'longitude': '18.21370000', 'wikiDataId': 'Q567827'}, FM 52402",Clinton,Mississippi,United States
+143,"350 Sanders Knoll Suite 719
+{'id': 15198, 'name': 'Taguatinga', 'state_id': 2020, 'state_code': 'TO', 'state_name': 'Tocantins', 'country_id': 31, 'country_code': 'BR', 'country_name': 'Brazil', 'latitude': '-12.38568000', 'longitude': '-46.57110000', 'wikiDataId': 'Q22060005'}, NH 63659",Valea Sării,Vrancea,Romania
+144,"186 Odonnell Prairie Suite 039
+{'id': 76381, 'name': 'Zozocolco de Guerrero', 'state_id': 3476, 'state_code': 'PUE', 'state_name': 'Puebla', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '20.10396000', 'longitude': '-97.56934000', 'wikiDataId': 'Q20232996'}, IA 35083",Tweed,New South Wales,Australia
+145,"6651 Rice Hills
+{'id': 49950, 'name': 'Hirwaun', 'state_id': 2338, 'state_code': 'WLS', 'state_name': 'Wales', 'country_id': 232, 'country_code': 'GB', 'country_name': 'United Kingdom', 'latitude': '51.73917000', 'longitude': '-3.51028000', 'wikiDataId': 'Q5771888'}, WI 24446",Grant Parish,Louisiana,United States
+146,"507 Christian Drives Suite 055
+{'id': 81288, 'name': 'Anuling', 'state_id': 1356, 'state_code': 'MDC', 'state_name': 'Occidental Mindoro', 'country_id': 174, 'country_code': 'PH', 'country_name': 'Philippines', 'latitude': '14.12388000', 'longitude': '120.89220000', 'wikiDataId': 'Q31467448'}, SD 02553",Caderousse,Provence-Alpes-Côte-d’Azur,France
+147,"99141 Becker Island Suite 496
+{'id': 8127, 'name': 'Ordubad Rayon', 'state_id': 562, 'state_code': 'NX', 'state_name': 'Nakhchivan', 'country_id': 16, 'country_code': 'AZ', 'country_name': 'Azerbaijan', 'latitude': '39.08333000', 'longitude': '45.91667000', 'wikiDataId': 'Q512623'}, NC 75555",Tequisquiapan,Querétaro,Mexico
+148,"76861 Kathy Crescent Apt. 124
+{'id': 91795, 'name': 'Comuna Frătăuţii Noi', 'state_id': 4720, 'state_code': 'SV', 'state_name': 'Suceava', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '47.92568000', 'longitude': '25.87372000', 'wikiDataId': 'Q12724782'}, FM 43370",Ainaloa,Hawaii,United States
+149,"68513 Kevin Trail
+{'id': 119192, 'name': 'Jefferson County', 'state_id': 1422, 'state_code': 'PA', 'state_name': 'Pennsylvania', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '41.12815000', 'longitude': '-78.99942000', 'wikiDataId': 'Q494156'}, MO 12202",Cenotillo,Yucatán,Mexico
+150,"206 Karen Street Apt. 865
+{'id': 57252, 'name': 'Firhouse', 'state_id': 1073, 'state_code': 'L', 'state_name': 'Leinster', 'country_id': 105, 'country_code': 'IE', 'country_name': 'Ireland', 'latitude': '53.28167000', 'longitude': '-6.33917000', 'wikiDataId': 'Q2563252'}, AR 89828",Clayton,California,United States
+151,"878 Robert Via Apt. 690
+{'id': 25351, 'name': 'Gaißach', 'state_id': 3009, 'state_code': 'BY', 'state_name': 'Bavaria', 'country_id': 82, 'country_code': 'DE', 'country_name': 'Germany', 'latitude': '47.75000000', 'longitude': '11.58333000', 'wikiDataId': 'Q528700'}, TN 38843",La Francheville,Grand-Est,France
+152,"16331 Jessica Locks Apt. 961
+{'id': 112305, 'name': 'Beverly Hills', 'state_id': 1426, 'state_code': 'MI', 'state_name': 'Michigan', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '42.52392000', 'longitude': '-83.22326000', 'wikiDataId': 'Q851790'}, SD 55600",Wongsorejo,Jawa Timur,Indonesia
+153,"1641 Schaefer Drives
+{'id': 119567, 'name': 'Kimball County', 'state_id': 1408, 'state_code': 'NE', 'state_name': 'Nebraska', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '41.19766000', 'longitude': '-103.71495000', 'wikiDataId': 'Q489729'}, HI 09840",Bolesław,Lesser Poland,Poland
+154,"20587 Paul Underpass
+{'id': 19610, 'name': 'Heihe', 'state_id': 2265, 'state_code': 'HL', 'state_name': 'Heilongjiang', 'country_id': 45, 'country_code': 'CN', 'country_name': 'China', 'latitude': '50.24413000', 'longitude': '127.49016000', 'wikiDataId': 'Q349983'}, OK 48381",Miedzno,Silesia,Poland
+155,"4042 Justin Burgs Suite 686
+{'id': 135723, 'name': 'Azzano San Paolo', 'state_id': 1705, 'state_code': '25', 'state_name': 'Lombardy', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '45.65798000', 'longitude': '9.67305000', 'wikiDataId': 'Q18448272'}, MH 82910",Pryvol’ny,Minsk,Belarus
+156,"79041 Miller Union Suite 706
+{'id': 83491, 'name': 'Manaoag', 'state_id': 1355, 'state_code': '01', 'state_name': 'Ilocos', 'country_id': 174, 'country_code': 'PH', 'country_name': 'Philippines', 'latitude': '16.04380000', 'longitude': '120.48610000', 'wikiDataId': 'Q1020685'}, MO 92174",Solarolo,Ravenna,Italy
+157,"1332 Brian Grove Suite 372
+{'id': 86253, 'name': 'Dębowa Kłoda', 'state_id': 1638, 'state_code': 'LU', 'state_name': 'Lublin', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '51.59446000', 'longitude': '23.00640000', 'wikiDataId': 'Q3744963'}, CO 22199",Comuna Brădeşti,Dolj,Romania
+158,"7345 George Port Apt. 213
+{'id': 60719, 'name': 'Senale', 'state_id': 1725, 'state_code': '32', 'state_name': 'Trentino-South Tyrol', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '46.51077000', 'longitude': '11.11012000', 'wikiDataId': 'Q206533'}, VI 94032",Krebeck,Lower Saxony,Germany
+159,"545 Jones Divide Suite 337
+{'id': 70439, 'name': 'Fraccionamiento Rinconada del Valle', 'state_id': 3450, 'state_code': 'MEX', 'state_name': 'Estado de México', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '19.41111000', 'longitude': '-99.57417000', 'wikiDataId': 'Q20282121'}, NY 97803",Mikumi,Morogoro,Tanzania
+160,"USNV Brown
+FPO AP 11502",Powiat tatrzański,Lesser Poland,Poland
+161,"770 Smith Ports
+{'id': 136745, 'name': 'Cantarana', 'state_id': 1702, 'state_code': '21', 'state_name': 'Piedmont', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '44.90245000', 'longitude': '8.02753000', 'wikiDataId': 'Q18502825'}, LA 97851",Källby,Västra Götaland,Sweden
+162,"90913 Randall Views Suite 409
+{'id': 22316, 'name': 'Dubňany', 'state_id': 4602, 'state_code': '64', 'state_name': 'Jihomoravský kraj', 'country_id': 58, 'country_code': 'CZ', 'country_name': 'Czech Republic', 'latitude': '48.91694000', 'longitude': '17.09004000', 'wikiDataId': 'Q579957'}, PA 41238",Grants Pen,Saint Andrew,Jamaica
+163,"618 Marie Stravenue Suite 748
+{'id': 58539, 'name': 'Piano Maglio-Blandino', 'state_id': 1709, 'state_code': '82', 'state_name': 'Sicily', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '38.05793000', 'longitude': '13.30909000', 'wikiDataId': 'Q18468528'}, NJ 97185",Nagano,Kōchi,Japan
+164,"4342 Adkins Stravenue Suite 910
+{'id': 43395, 'name': 'Les Herbiers', 'state_id': 4802, 'state_code': 'PDL', 'state_name': 'Pays-de-la-Loire', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '46.86667000', 'longitude': '-1.01667000', 'wikiDataId': 'Q35715447'}, OR 86091",Zöbern,Lower Austria,Austria
+165,"767 Jason Plain Apt. 910
+{'id': 54340, 'name': 'Tomalá', 'state_id': 4054, 'state_code': 'LE', 'state_name': 'Lempira', 'country_id': 97, 'country_code': 'HN', 'country_name': 'Honduras', 'latitude': '14.24330000', 'longitude': '-88.73140000', 'wikiDataId': 'Q2226585'}, CT 52100",San Javier,Murcia,Spain
+166,"349 Misty Ferry Suite 618
+{'id': 111261, 'name': 'Amador County', 'state_id': 1416, 'state_code': 'CA', 'state_name': 'California', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '38.44639000', 'longitude': '-120.65112000', 'wikiDataId': 'Q156177'}, KS 41362",Gresham Park,Georgia,United States
+167,"1275 Tabitha Dam
+{'id': 1553, 'name': 'Villa General Guemes', 'state_id': 3652, 'state_code': 'P', 'state_name': 'Formosa', 'country_id': 11, 'country_code': 'AR', 'country_name': 'Argentina', 'latitude': '-24.75530000', 'longitude': '-59.48940000', 'wikiDataId': 'Q1013424'}, MS 45654",Stolnici,Arges,Romania
+168,"7657 Morris Corners Apt. 041
+{'id': 13237, 'name': 'Morrinhos', 'state_id': 2000, 'state_code': 'GO', 'state_name': 'Goiás', 'country_id': 31, 'country_code': 'BR', 'country_name': 'Brazil', 'latitude': '-17.79922000', 'longitude': '-49.09225000', 'wikiDataId': 'Q1025767'}, IA 63699",Campins,Barcelona,Spain
+169,"6995 Haley Trafficway Suite 128
+{'id': 78707, 'name': 'Sintjohannesga', 'state_id': 2622, 'state_code': 'FR', 'state_name': 'Friesland', 'country_id': 156, 'country_code': 'NL', 'country_name': 'Netherlands', 'latitude': '52.93157000', 'longitude': '5.85588000', 'wikiDataId': 'Q1812895'}, DE 50880",Rison,Arkansas,United States
+170,"642 Barber Inlet
+{'id': 77968, 'name': 'Gemeente Veendam', 'state_id': 2617, 'state_code': 'GR', 'state_name': 'Groningen', 'country_id': 156, 'country_code': 'NL', 'country_name': 'Netherlands', 'latitude': '53.08951000', 'longitude': '6.87923000', 'wikiDataId': 'Q73065'}, TN 25865",Evans,Georgia,United States
+171,"8323 Reyes Pike Apt. 116
+{'id': 70990, 'name': 'Jaltocan', 'state_id': 3470, 'state_code': 'HID', 'state_name': 'Hidalgo', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '21.13284000', 'longitude': '-98.53898000', 'wikiDataId': 'Q20148556'}, RI 71561",Ørje,Viken,Norway
+172,"302 Miller Springs
+{'id': 58930, 'name': 'Porto Fuori', 'state_id': 1773, 'state_code': '45', 'state_name': 'Emilia-Romagna', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '44.40557000', 'longitude': '12.25218000', 'wikiDataId': 'Q18446182'}, WV 62280",Lindesberg,Örebro,Sweden
+173,"Unit 3493 Box 5428
+DPO AA 15769",Krivodol,Vratsa,Bulgaria
+174,"36533 Mclaughlin Cove Apt. 323
+{'id': 137868, 'name': 'Colle Verde', 'state_id': 1678, 'state_code': '62', 'state_name': 'Lazio', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '41.97694000', 'longitude': '12.61855000', 'wikiDataId': 'Q18454540'}, ID 97420",Divnomorskoye,Krasnodar,Russia
+175,"641 Sandra Fort Suite 206
+{'id': 35238, 'name': 'Mamolar', 'state_id': 1146, 'state_code': 'BU', 'state_name': 'Burgos', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '41.92762000', 'longitude': '-3.36228000', 'wikiDataId': 'Q1630597'}, NV 37359",San Pedro Huaquilpan,Morelos,Mexico
+176,"3892 Sanchez Mall
+{'id': 126413, 'name': 'Sigourney', 'state_id': 1459, 'state_code': 'IA', 'state_name': 'Iowa', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '41.33334000', 'longitude': '-92.20463000', 'wikiDataId': 'Q1913213'}, MA 05582",Montlaur,Occitanie,France
+177,"9948 Rebecca Square
+{'id': 104366, 'name': 'Žetale', 'state_id': 4249, 'state_code': '191', 'state_name': 'Žetale', 'country_id': 201, 'country_code': 'SI', 'country_name': 'Slovenia', 'latitude': '46.27356000', 'longitude': '15.82658000', 'wikiDataId': 'Q12751744'}, IA 35894",Exireuil,Nouvelle-Aquitaine,France
+178,"63719 Barber Course Apt. 069
+{'id': 126313, 'name': 'Sherborn', 'state_id': 1433, 'state_code': 'MA', 'state_name': 'Massachusetts', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '42.23899000', 'longitude': '-71.36978000', 'wikiDataId': 'Q591912'}, AR 65483",Warngau,Bavaria,Germany
+179,"USNS Miles
+FPO AP 15202",Moheda,Kronoberg,Sweden
+180,"6605 Carter Passage
+{'id': 56298, 'name': 'Jatiwangi', 'state_id': 1825, 'state_code': 'JB', 'state_name': 'Jawa Barat', 'country_id': 102, 'country_code': 'ID', 'country_name': 'Indonesia', 'latitude': '-6.73361000', 'longitude': '108.26278000', 'wikiDataId': 'Q24924084'}, VA 19889",Dibba Al-Hisn,Fujairah,United Arab Emirates
+181,"3268 Seth Spur
+{'id': 103828, 'name': 'Södra Sunderbyn', 'state_id': 1538, 'state_code': 'BD', 'state_name': 'Norrbotten', 'country_id': 213, 'country_code': 'SE', 'country_name': 'Sweden', 'latitude': '65.65983000', 'longitude': '21.94004000', 'wikiDataId': 'Q1763367'}, ND 86955",Bughea de Jos,Prahova,Romania
+182,"4934 Michael Lodge
+{'id': 125280, 'name': 'Rock Hill', 'state_id': 1443, 'state_code': 'SC', 'state_name': 'South Carolina', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '34.92487000', 'longitude': '-81.02508000', 'wikiDataId': 'Q960774'}, ME 79836",Muang Saravan,Salavan,Laos
+183,"35656 Hernandez Spur
+{'id': 148488, 'name': 'Quemchi', 'state_id': 2835, 'state_code': 'LL', 'state_name': 'Los Lagos', 'country_id': 44, 'country_code': 'CL', 'country_name': 'Chile', 'latitude': '-42.13333333', 'longitude': '-73.51666667', 'wikiDataId': 'Q51609'}, MH 46950",Varna,Chelyabinsk,Russia
+184,"5595 Joel Locks Apt. 505
+{'id': 45849, 'name': 'Saint-Charles', 'state_id': 4812, 'state_code': 'PAC', 'state_name': 'Provence-Alpes-Côte-d’Azur', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '43.30199000', 'longitude': '5.38405000', 'wikiDataId': 'Q239795'}, RI 85196",Töss (Kreis 4) / Eichliacker,Zürich,Switzerland
+185,"USNV Gray
+FPO AE 95905",Saint-Julien-lès-Metz,Grand-Est,France
+186,"USNV Peterson
+FPO AP 47139",João Alfredo,Pernambuco,Brazil
+187,"725 Henry Mews
+{'id': 38503, 'name': 'Zucaina', 'state_id': 5110, 'state_code': 'CS', 'state_name': 'Castellón', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '40.11667000', 'longitude': '-0.41667000', 'wikiDataId': 'Q619692'}, GA 69315",Bompietro,Sicily,Italy
+188,"1705 Mcdonald Hills Suite 426
+{'id': 35335, 'name': 'Matallana de Torío', 'state_id': 1200, 'state_code': 'LE', 'state_name': 'León', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '42.86560000', 'longitude': '-5.52034000', 'wikiDataId': 'Q80143'}, MH 14727",Fresno de Rodilla,Burgos,Spain
+189,"537 Roberson Heights Apt. 358
+{'id': 129761, 'name': 'Zumbrota', 'state_id': 1420, 'state_code': 'MN', 'state_name': 'Minnesota', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '44.29413000', 'longitude': '-92.66908000', 'wikiDataId': 'Q1924219'}, MO 65160",Gasan,Oriental Mindoro,Philippines
+190,"161 Julian Ridges
+{'id': 137506, 'name': 'Ceparana-Carpena', 'state_id': 1768, 'state_code': '42', 'state_name': 'Liguria', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '44.16667000', 'longitude': '9.88333000', 'wikiDataId': 'Q18460581'}, NY 45841",Natividade,Rio de Janeiro,Brazil
+191,"743 Michelle Trail Apt. 554
+{'id': 91038, 'name': 'Comuna Boldeşti-Gradiştea', 'state_id': 4729, 'state_code': 'PH', 'state_name': 'Prahova', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '44.87645000', 'longitude': '26.53482000', 'wikiDataId': 'Q833855'}, NV 73450",Winterton,England,United Kingdom
+192,"10485 Reyes Pike Apt. 970
+{'id': 8875, 'name': 'La Hulpe', 'state_id': 1380, 'state_code': 'WAL', 'state_name': 'Wallonia', 'country_id': 22, 'country_code': 'BE', 'country_name': 'Belgium', 'latitude': '50.73091000', 'longitude': '4.48577000', 'wikiDataId': 'Q31824072'}, SD 07393",West Gonja,Savannah,Ghana
+193,"87071 Beard Islands
+{'id': 116873, 'name': 'Franklinton', 'state_id': 1457, 'state_code': 'LA', 'state_name': 'Louisiana', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '30.84731000', 'longitude': '-90.15527000', 'wikiDataId': 'Q3240485'}, DC 03267",Yehualtepec,Puebla,Mexico
+194,"1703 Nunez Island
+{'id': 86579, 'name': 'Kabaty', 'state_id': 1637, 'state_code': 'MZ', 'state_name': 'Mazovia', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '52.13012000', 'longitude': '21.08148000', 'wikiDataId': 'Q554427'}, DE 56404",Amphoe Hat Yai,Songkhla,Thailand
+195,"6177 Laura Drive Apt. 188
+{'id': 53912, 'name': 'Concepción de Guasistagua', 'state_id': 4042, 'state_code': 'CM', 'state_name': 'Comayagua', 'country_id': 97, 'country_code': 'HN', 'country_name': 'Honduras', 'latitude': '14.60000000', 'longitude': '-87.65000000', 'wikiDataId': 'Q1773148'}, ND 45996",Vulcana-Pandele,Dâmbovița,Romania
+196,"7662 Reid Forges Apt. 706
+{'id': 91457, 'name': 'Comuna Costeşti', 'state_id': 4735, 'state_code': 'IS', 'state_name': 'Iași', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '47.24224000', 'longitude': '26.91751000', 'wikiDataId': 'Q5114287'}, MO 94506",Bad Holzhausen,North Rhine-Westphalia,Germany
+197,"8105 Scott Junction
+{'id': 100938, 'name': 'Rameshkovskiy Rayon', 'state_id': 1860, 'state_code': 'TVE', 'state_name': 'Tver', 'country_id': 182, 'country_code': 'RU', 'country_name': 'Russia', 'latitude': '57.33333000', 'longitude': '36.08333000', 'wikiDataId': 'Q394718'}, PR 55567",Cumaná,Sucre,Venezuela
+198,"62843 Gonzales Drive
+{'id': 56642, 'name': 'Kabupaten Sorong Selatan', 'state_id': 5238, 'state_code': 'PD', 'state_name': 'Papua Barat Daya', 'country_id': 102, 'country_code': 'ID', 'country_name': 'Indonesia', 'latitude': '-1.50495000', 'longitude': '132.28638000', 'wikiDataId': 'Q26802'}, LA 18052",Portsmouth,Virginia,United States
+199,"0147 Lisa Place Apt. 377
+{'id': 5749, 'name': 'Junction Village', 'state_id': 3903, 'state_code': 'VIC', 'state_name': 'Victoria', 'country_id': 14, 'country_code': 'AU', 'country_name': 'Australia', 'latitude': '-38.13636000', 'longitude': '145.29684000', 'wikiDataId': 'Q6311789'}, WY 58369",Haykashen,Armavir,Armenia
+200,"356 Darius Coves
+{'id': 25177, 'name': 'Fintel', 'state_id': 3008, 'state_code': 'NI', 'state_name': 'Lower Saxony', 'country_id': 82, 'country_code': 'DE', 'country_name': 'Germany', 'latitude': '53.17188000', 'longitude': '9.66969000', 'wikiDataId': 'Q503684'}, NC 80380",Villars-sur-Ollon,Vaud,Switzerland
+201,"1549 Austin Manors
+{'id': 126973, 'name': 'Stanton County', 'state_id': 1406, 'state_code': 'KS', 'state_name': 'Kansas', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '37.56306000', 'longitude': '-101.78418000', 'wikiDataId': 'Q377035'}, PW 68475",Pasaje,Durango,Mexico
+202,"3118 Joseph Tunnel
+{'id': 114170, 'name': 'Clay Center', 'state_id': 1406, 'state_code': 'KS', 'state_name': 'Kansas', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '39.37694000', 'longitude': '-97.12474000', 'wikiDataId': 'Q1914606'}, WI 90718",Vernoux-en-Vivarais,Auvergne-Rhône-Alpes,France
+203,"54138 Hines Inlet Apt. 140
+{'id': 55193, 'name': 'Aranyosapáti', 'state_id': 1045, 'state_code': 'SZ', 'state_name': 'Szabolcs-Szatmár-Bereg County', 'country_id': 99, 'country_code': 'HU', 'country_name': 'Hungary', 'latitude': '48.20595000', 'longitude': '22.25916000', 'wikiDataId': 'Q775775'}, NH 08183",Caxias do Sul,Rio Grande do Sul,Brazil
+204,"972 Blackburn Corners Apt. 955
+{'id': 1790, 'name': 'Brand', 'state_id': 2063, 'state_code': '8', 'state_name': 'Vorarlberg', 'country_id': 15, 'country_code': 'AT', 'country_name': 'Austria', 'latitude': '47.10083000', 'longitude': '9.73722000', 'wikiDataId': 'Q557973'}, MA 93577",Stejaru,Neamț,Romania
+205,"Unit 3311 Box 0878
+DPO AE 50076",Fuentecantos,Soria,Spain
+206,"6571 Bryan Islands Apt. 327
+{'id': 128659, 'name': 'Waurika', 'state_id': 1421, 'state_code': 'OK', 'state_name': 'Oklahoma', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '34.16704000', 'longitude': '-97.99754000', 'wikiDataId': 'Q3240380'}, VI 09250",Oostzaan,North Holland,Netherlands
+207,"Unit 0760 Box 4239
+DPO AP 00610",Obshtina Maritsa,Plovdiv,Bulgaria
+208,"7441 James Orchard
+{'id': 88886, 'name': 'Żerniki Wrocławskie', 'state_id': 1629, 'state_code': 'DS', 'state_name': 'Lower Silesia', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '51.03308000', 'longitude': '17.05662000', 'wikiDataId': 'Q8083293'}, AZ 53490",Lassen County,California,United States
+209,"990 Phillip Glens
+{'id': 2291, 'name': 'Hirnsdorf', 'state_id': 2059, 'state_code': '6', 'state_name': 'Styria', 'country_id': 15, 'country_code': 'AT', 'country_name': 'Austria', 'latitude': '47.19167000', 'longitude': '15.82868000', 'wikiDataId': 'Q286442'}, WI 59541",Trevélez,Granada,Spain
+210,"9919 Tom Glen
+{'id': 120695, 'name': 'Logan', 'state_id': 1414, 'state_code': 'UT', 'state_name': 'Utah', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '41.73549000', 'longitude': '-111.83439000', 'wikiDataId': 'Q482657'}, CO 61729",Labastide-Saint-Sernin,Occitanie,France
+211,"128 Carlos Plains Suite 218
+{'id': 23186, 'name': 'Turnov', 'state_id': 4601, 'state_code': '51', 'state_name': 'Liberecký kraj', 'country_id': 58, 'country_code': 'CZ', 'country_name': 'Czech Republic', 'latitude': '50.58356000', 'longitude': '15.15186000', 'wikiDataId': 'Q851419'}, GA 45964",Colle Santa Lucia,Veneto,Italy
+212,"21557 Kristine Junctions Apt. 871
+{'id': 38680, 'name': 'Metu', 'state_id': 5, 'state_code': 'OR', 'state_name': 'Oromia', 'country_id': 70, 'country_code': 'ET', 'country_name': 'Ethiopia', 'latitude': '8.30000000', 'longitude': '35.58333000', 'wikiDataId': 'Q742955'}, ID 87871",Rock County,Minnesota,United States
+213,"Unit 3969 Box 9152
+DPO AA 67487",Balaci,Teleorman,Romania
+214,"15370 Anthony Plains Suite 276
+{'id': 116169, 'name': 'Erie County', 'state_id': 1422, 'state_code': 'PA', 'state_name': 'Pennsylvania', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '42.11748000', 'longitude': '-80.09811000', 'wikiDataId': 'Q488679'}, VI 01456",Deoria,Uttar Pradesh,India
+215,"9728 Beverly Forks Apt. 270
+{'id': 150888, 'name': 'Maklavan', 'state_id': 3920, 'state_code': '01', 'state_name': 'Gilan', 'country_id': 103, 'country_code': 'IR', 'country_name': 'Iran', 'latitude': '37.19555600', 'longitude': '49.19861100', 'wikiDataId': 'Q10853970'}, NY 41289",Tordinci,Vukovar-Syrmia,Croatia
+216,"170 Kathy Pike Apt. 388
+{'id': 59526, 'name': 'Roccavaldina', 'state_id': 1709, 'state_code': '82', 'state_name': 'Sicily', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '38.18296000', 'longitude': '15.37402000', 'wikiDataId': 'Q18425438'}, VA 94179",Don Antonio,Hidalgo,Mexico
+217,"32168 Sherry Motorway
+{'id': 86322, 'name': 'Godów', 'state_id': 1623, 'state_code': 'SL', 'state_name': 'Silesia', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '49.92481000', 'longitude': '18.47830000', 'wikiDataId': 'Q1010583'}, AK 08444",La Cygne,Kansas,United States
+218,"60706 Richardson Street Suite 036
+{'id': 15179, 'name': ""Sítio d'Abadia"", 'state_id': 2000, 'state_code': 'GO', 'state_name': 'Goiás', 'country_id': 31, 'country_code': 'BR', 'country_name': 'Brazil', 'latitude': '-14.75201000', 'longitude': '-46.27003000', 'wikiDataId': 'Q1806986'}, WY 98596",Ottenthal,Lower Austria,Austria
+219,"7848 Lewis Lake
+{'id': 96032, 'name': 'Păuliş', 'state_id': 4739, 'state_code': 'AR', 'state_name': 'Arad', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '46.11667000', 'longitude': '21.58333000', 'wikiDataId': 'Q1093019'}, IA 50227",Dursley,England,United Kingdom
+220,"417 Martinez Center
+{'id': 122832, 'name': 'Newkirk', 'state_id': 1421, 'state_code': 'OK', 'state_name': 'Oklahoma', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '36.88225000', 'longitude': '-97.05337000', 'wikiDataId': 'Q3020762'}, UT 77484",Canterwood,Washington,United States
+221,"34518 Keith Vista
+{'id': 122590, 'name': 'Natick', 'state_id': 1433, 'state_code': 'MA', 'state_name': 'Massachusetts', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '42.28343000', 'longitude': '-71.34950000', 'wikiDataId': 'Q367070'}, WA 84819",Hanguranketa,Kandy,Sri Lanka
+222,"53658 Harrison Points Suite 063
+{'id': 70892, 'name': 'Iturbide', 'state_id': 3475, 'state_code': 'CAM', 'state_name': 'Campeche', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '19.57903000', 'longitude': '-89.60222000', 'wikiDataId': 'Q20147819'}, AK 63958",Peelo,Drenthe,Netherlands
+223,"415 Brown Dam
+{'id': 63255, 'name': 'Arida Shi', 'state_id': 844, 'state_code': '30', 'state_name': 'Wakayama', 'country_id': 109, 'country_code': 'JP', 'country_name': 'Japan', 'latitude': '34.07937000', 'longitude': '135.14230000', 'wikiDataId': 'Q657843'}, NV 60583",Coffee County,Georgia,United States
+224,"80855 Raymond Run
+{'id': 142152, 'name': 'Agua Delgada', 'state_id': 4857, 'state_code': 'JAL', 'state_name': 'Jalisco', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '20.16222000', 'longitude': '-103.82750000', 'wikiDataId': 'Q20131482'}, WY 73396",Driggs,Idaho,United States
+225,"481 Johnson Estates Apt. 623
+{'id': 136919, 'name': 'Carpineto Sinello', 'state_id': 1679, 'state_code': '65', 'state_name': 'Abruzzo', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '42.01044000', 'longitude': '14.50418000', 'wikiDataId': 'Q3660665'}, MP 31265",Montségur-sur-Lauzon,Auvergne-Rhône-Alpes,France
+226,"608 Clark Freeway
+{'id': 76988, 'name': 'Koton-Karfe', 'state_id': 298, 'state_code': 'KO', 'state_name': 'Kogi', 'country_id': 161, 'country_code': 'NG', 'country_name': 'Nigeria', 'latitude': '8.09120000', 'longitude': '6.79782000', 'wikiDataId': 'Q937487'}, MN 19703",Maysville,Missouri,United States
+227,"22288 Walker Crest Suite 543
+{'id': 66613, 'name': 'Kalvarija Municipality', 'state_id': 1610, 'state_code': '25', 'state_name': 'Marijampolė', 'country_id': 126, 'country_code': 'LT', 'country_name': 'Lithuania', 'latitude': '54.41468000', 'longitude': '23.22484000', 'wikiDataId': 'Q1461987'}, OR 14924",Velké Bílovice,Jihomoravský kraj,Czech Republic
+228,"3484 Christina Island Suite 893
+{'id': 86940, 'name': 'Lubicz Górny', 'state_id': 1625, 'state_code': 'KP', 'state_name': 'Kuyavia-Pomerania', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '53.02686000', 'longitude': '18.77100000', 'wikiDataId': 'Q4271662'}, MI 59244",Hopkins County,Kentucky,United States
+229,"031 Kevin Canyon Suite 205
+{'id': 81002, 'name': 'Uchiza', 'state_id': 3694, 'state_code': 'SAM', 'state_name': 'San Martín', 'country_id': 173, 'country_code': 'PE', 'country_name': 'Peru', 'latitude': '-8.45917000', 'longitude': '-76.46333000', 'wikiDataId': 'Q1677131'}, WV 12282",Dosson,Veneto,Italy
+230,"621 Franco Branch Suite 806
+{'id': 73709, 'name': 'San Jerónimo Coyula', 'state_id': 3476, 'state_code': 'PUE', 'state_name': 'Puebla', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '18.89438000', 'longitude': '-98.51706000', 'wikiDataId': 'Q3889079'}, NJ 06252",Church,England,United Kingdom
+231,"3279 Richard Vista
+{'id': 29884, 'name': 'Vreden', 'state_id': 3017, 'state_code': 'NW', 'state_name': 'North Rhine-Westphalia', 'country_id': 82, 'country_code': 'DE', 'country_name': 'Germany', 'latitude': '52.03792000', 'longitude': '6.82800000', 'wikiDataId': 'Q33512576'}, PA 10321",Lawrence County,Ohio,United States
+232,"11923 Christopher Passage Suite 579
+{'id': 13657, 'name': 'Paraí', 'state_id': 2001, 'state_code': 'RS', 'state_name': 'Rio Grande do Sul', 'country_id': 31, 'country_code': 'BR', 'country_name': 'Brazil', 'latitude': '-28.59575000', 'longitude': '-51.79731000', 'wikiDataId': 'Q1757405'}, VT 23287",Hunsur,Karnataka,India
+233,"3265 Williams Wall Suite 075
+{'id': 134602, 'name': 'Bileh Savar', 'state_id': 3934, 'state_code': '24', 'state_name': 'Ardabil', 'country_id': 103, 'country_code': 'IR', 'country_name': 'Iran', 'latitude': '39.37961000', 'longitude': '48.35463000', 'wikiDataId': 'Q2725024'}, IN 53576",Duque Bacelar,Maranhão,Brazil
+234,"344 Graves Key
+{'id': 31356, 'name': 'I-n-Salah', 'state_id': 1135, 'state_code': '11', 'state_name': 'Tamanghasset', 'country_id': 4, 'country_code': 'DZ', 'country_name': 'Algeria', 'latitude': '27.19351000', 'longitude': '2.46069000', 'wikiDataId': 'Q32061388'}, TN 91923",Abadeh,Fars,Iran
+235,"93854 Yvonne Hollow Apt. 855
+{'id': 86332, 'name': 'Goraj', 'state_id': 1638, 'state_code': 'LU', 'state_name': 'Lublin', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '50.72184000', 'longitude': '22.66651000', 'wikiDataId': 'Q2461391'}, PW 78656",Irbid,Irbid,Jordan
+236,"332 Joseph Keys Suite 750
+{'id': 8078, 'name': 'Dünyamalılar', 'state_id': 554, 'state_code': 'BEY', 'state_name': 'Beylagan', 'country_id': 16, 'country_code': 'AZ', 'country_name': 'Azerbaijan', 'latitude': '39.77278000', 'longitude': '47.75889000', 'wikiDataId': 'Q4621474'}, MA 79756",Yekleh,Hamadan,Iran
+237,"USS Nicholson
+FPO AE 26736",Oissery,Île-de-France,France
+238,"1890 Clark Corners Suite 626
+{'id': 39698, 'name': 'Azé', 'state_id': 4818, 'state_code': 'CVL', 'state_name': 'Centre-Val de Loire', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '47.85141000', 'longitude': '0.99829000', 'wikiDataId': 'Q49345047'}, NM 57544",Vernayaz,Valais,Switzerland
+239,"755 Torres Extensions Suite 871
+{'id': 1702, 'name': 'Au', 'state_id': 2061, 'state_code': '5', 'state_name': 'Salzburg', 'country_id': 15, 'country_code': 'AT', 'country_name': 'Austria', 'latitude': '47.70000000', 'longitude': '13.06667000', 'wikiDataId': 'Q676663'}, GU 91867",Sakassou,Vallée du Bandama,Cote D'Ivoire (Ivory Coast)
+240,"76955 Jonathan Bridge Apt. 310
+{'id': 41631, 'name': 'Département de la Lozère', 'state_id': 4799, 'state_code': 'OCC', 'state_name': 'Occitanie', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '44.50000000', 'longitude': '3.50000000', 'wikiDataId': 'Q12580'}, VT 20395",Thouars,Nouvelle-Aquitaine,France
+241,"61216 Ramsey Mountain Suite 574
+{'id': 69946, 'name': 'El Dorado', 'state_id': 3454, 'state_code': 'TAB', 'state_name': 'Tabasco', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '17.88323000', 'longitude': '-93.36788000', 'wikiDataId': 'Q20227832'}, NJ 59788",Ciputat,Jawa Barat,Indonesia
+242,"7353 Sanchez Vista
+{'id': 21807, 'name': 'Artemisa', 'state_id': 283, 'state_code': '15', 'state_name': 'Artemisa', 'country_id': 56, 'country_code': 'CU', 'country_name': 'Cuba', 'latitude': '22.81667000', 'longitude': '-82.75944000', 'wikiDataId': 'Q1936053'}, ID 07690",Lake Placid,New York,United States
+243,"5952 Tyler Valley Apt. 003
+{'id': 46033, 'name': 'Saint-Gildas-des-Bois', 'state_id': 4802, 'state_code': 'PDL', 'state_name': 'Pays-de-la-Loire', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '47.51622000', 'longitude': '-2.03659000', 'wikiDataId': 'Q127932'}, PR 67294",Neuvéglise,Auvergne-Rhône-Alpes,France
+244,"342 Keith Lodge Apt. 157
+{'id': 66516, 'name': 'Negombo', 'state_id': 2802, 'state_code': '1', 'state_name': 'Western', 'country_id': 208, 'country_code': 'LK', 'country_name': 'Sri Lanka', 'latitude': '7.20830000', 'longitude': '79.83580000', 'wikiDataId': 'Q668616'}, MO 53205",San Miguel Tenextatiloyan,Puebla,Mexico
+245,"23914 Miller Bridge
+{'id': 42410, 'name': 'Holtzwihr', 'state_id': 4820, 'state_code': 'GES', 'state_name': 'Grand-Est', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '48.11288000', 'longitude': '7.42080000', 'wikiDataId': 'Q325085'}, GA 53890",Chitrakoot,Uttar Pradesh,India
+246,"7344 Martinez Tunnel Apt. 819
+{'id': 66069, 'name': 'Choiseul', 'state_id': 3760, 'state_code': '03', 'state_name': 'Choiseul', 'country_id': 186, 'country_code': 'LC', 'country_name': 'Saint Lucia', 'latitude': '13.77273000', 'longitude': '-61.04931000', 'wikiDataId': 'Q3556840'}, MO 54915",Petacciato,Molise,Italy
+247,"530 Victoria Brooks
+{'id': 2590, 'name': 'Lichtenegg', 'state_id': 2065, 'state_code': '3', 'state_name': 'Lower Austria', 'country_id': 15, 'country_code': 'AT', 'country_name': 'Austria', 'latitude': '47.60000000', 'longitude': '16.20000000', 'wikiDataId': 'Q675984'}, MA 12384",Bay Harbor Islands,Florida,United States
+248,"14280 Baker Lake Suite 724
+{'id': 3782, 'name': 'Weißenkirchen im Attergau', 'state_id': 2058, 'state_code': '4', 'state_name': 'Upper Austria', 'country_id': 15, 'country_code': 'AT', 'country_name': 'Austria', 'latitude': '47.94964000', 'longitude': '13.41843000', 'wikiDataId': 'Q672041'}, OR 61241",Beverly,Ohio,United States
+249,"Unit 6898 Box 8484
+DPO AE 96199",Torviscosa,Friuli–Venezia Giulia,Italy
+250,"06810 White Common Apt. 776
+{'id': 40242, 'name': 'Bozel', 'state_id': 4798, 'state_code': 'ARA', 'state_name': 'Auvergne-Rhône-Alpes', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '45.44288000', 'longitude': '6.64896000', 'wikiDataId': 'Q1242293'}, VA 93385",Bramhall,England,United Kingdom
+251,"179 Murray Plaza
+{'id': 71617, 'name': 'Las Margaritas', 'state_id': 3451, 'state_code': 'CHP', 'state_name': 'Chiapas', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '16.31265000', 'longitude': '-91.98107000', 'wikiDataId': 'Q1962619'}, GU 82005",Comuna Săcel,Maramureș,Romania
+252,"471 Willis Spurs
+{'id': 11574, 'name': 'Deputado Irapuan Pinheiro', 'state_id': 2016, 'state_code': 'CE', 'state_name': 'Ceará', 'country_id': 31, 'country_code': 'BR', 'country_name': 'Brazil', 'latitude': '-5.88737000', 'longitude': '-39.25923000', 'wikiDataId': 'Q1847425'}, PA 30016",Cole Camp,Missouri,United States
+253,"495 Matthew Circle Apt. 676
+{'id': 24526, 'name': 'Castrop-Rauxel', 'state_id': 3017, 'state_code': 'NW', 'state_name': 'North Rhine-Westphalia', 'country_id': 82, 'country_code': 'DE', 'country_name': 'Germany', 'latitude': '51.55657000', 'longitude': '7.31155000', 'wikiDataId': 'Q3898'}, MN 04705",Damortis,Abra,Philippines
+254,"741 Lyons Village
+{'id': 152757, 'name': 'Aldeanueva de la Serrezuela', 'state_id': 1192, 'state_code': 'SG', 'state_name': 'Segovia', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '41.46119330', 'longitude': '-3.78097400', 'wikiDataId': 'Q1776931'}, PW 21666",Vallentuna,Stockholm,Sweden
+255,"2267 Henderson Falls Apt. 682
+{'id': 88775, 'name': 'Łaziska Górne', 'state_id': 1623, 'state_code': 'SL', 'state_name': 'Silesia', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '50.14952000', 'longitude': '18.84215000', 'wikiDataId': 'Q345293'}, IA 31732",Dieppe,New Brunswick,Canada
+256,"273 Vasquez Hills Apt. 903
+{'id': 12849, 'name': 'Londrina', 'state_id': 2022, 'state_code': 'PR', 'state_name': 'Paraná', 'country_id': 31, 'country_code': 'BR', 'country_name': 'Brazil', 'latitude': '-23.31028000', 'longitude': '-51.16278000', 'wikiDataId': 'Q192387'}, PR 85817",Crăciunelu de Jos,Alba,Romania
+257,"61206 Tracy Islands Apt. 133
+{'id': 35121, 'name': 'Los Gabatos', 'state_id': 1176, 'state_code': 'MU', 'state_name': 'Murcia', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '37.63333000', 'longitude': '-1.00000000', 'wikiDataId': 'Q1443867'}, MD 46961",Strijp,South Holland,Netherlands
+258,"33139 Howell Street Suite 460
+{'id': 112337, 'name': 'Big Stone Gap', 'state_id': 1427, 'state_code': 'VA', 'state_name': 'Virginia', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '36.88176000', 'longitude': '-82.74710000', 'wikiDataId': 'Q1375124'}, NC 76655",Guinticgan,Antique,Philippines
+259,"253 Barry Knolls
+{'id': 73190, 'name': 'Sabancuy', 'state_id': 3475, 'state_code': 'CAM', 'state_name': 'Campeche', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '18.97270000', 'longitude': '-91.17783000', 'wikiDataId': 'Q20247219'}, TX 91298",Andrushivka,Poltavska oblast,Ukraine
+260,"87308 Simmons Fork Suite 965
+{'id': 116526, 'name': 'Fish Lake', 'state_id': 1440, 'state_code': 'IN', 'state_name': 'Indiana', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '41.56671000', 'longitude': '-86.55196000', 'wikiDataId': 'Q371810'}, VT 96445",Hostinné,Královéhradecký kraj,Czech Republic
+261,"PSC 6250, Box 8377
+APO AE 01886",San Jorge Pueblo Nuevo,Estado de México,Mexico
+262,"USNV Johnson
+FPO AA 69544",Island Garden City of Samal,Bohol,Philippines
+263,"7312 William Stream
+{'id': 62067, 'name': 'Villaggio Residenziale', 'state_id': 1705, 'state_code': '25', 'state_name': 'Lombardy', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '45.52826000', 'longitude': '9.46737000', 'wikiDataId': 'Q18491824'}, RI 48592",Gafour,Siliana,Tunisia
+264,"79477 Wright Harbors
+{'id': 122731, 'name': 'New Ipswich', 'state_id': 1404, 'state_code': 'NH', 'state_name': 'New Hampshire', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '42.74814000', 'longitude': '-71.85424000', 'wikiDataId': 'Q2417215'}, RI 86177",Vidra,Vrancea,Romania
+265,"83934 Caldwell Junctions Suite 616
+{'id': 84130, 'name': 'Plaridel', 'state_id': 1356, 'state_code': 'MDC', 'state_name': 'Occidental Mindoro', 'country_id': 174, 'country_code': 'PH', 'country_name': 'Philippines', 'latitude': '13.95510000', 'longitude': '122.02080000', 'wikiDataId': 'Q104005'}, CT 59959",Neftobod,Sughd ,Tajikistan
+266,"627 Samuel Port
+{'id': 42073, 'name': 'Gerde', 'state_id': 4799, 'state_code': 'OCC', 'state_name': 'Occitanie', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '43.05567000', 'longitude': '0.16688000', 'wikiDataId': 'Q224346'}, FL 21749",Conca dei Marini,Campania,Italy
+267,"122 Robert Haven Suite 968
+{'id': 152669, 'name': 'Rionegro del Puente', 'state_id': 1161, 'state_code': 'ZA', 'state_name': 'Zamora', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '42.00460090', 'longitude': '-6.22830350', 'wikiDataId': 'Q1769047'}, OK 62583",Acueducto Fraccionamiento,Jalisco,Mexico
+268,"17894 Reyes Hollow Suite 137
+{'id': 68551, 'name': 'Barrio de San Miguel', 'state_id': 3450, 'state_code': 'MEX', 'state_name': 'Estado de México', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '19.51232000', 'longitude': '-99.95467000', 'wikiDataId': 'Q20253424'}, FM 20107",Departamento de San Lorenzo,Chaco,Argentina
+269,"8275 Richard Port
+{'id': 139031, 'name': 'Goriano Sicoli', 'state_id': 1679, 'state_code': '65', 'state_name': 'Abruzzo', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '42.08011000', 'longitude': '13.77459000', 'wikiDataId': 'Q18501820'}, WV 64290",Orangeville,New South Wales,Australia
+270,"96404 Tracey Harbor
+{'id': 49184, 'name': 'Crowthorne', 'state_id': 2336, 'state_code': 'ENG', 'state_name': 'England', 'country_id': 232, 'country_code': 'GB', 'country_name': 'United Kingdom', 'latitude': '51.37027000', 'longitude': '-0.79219000', 'wikiDataId': 'Q1833112'}, MS 79633",Farap,Lebap,Turkmenistan
+271,"457 Sullivan Stream
+{'id': 140935, 'name': 'Oppido Mamertina', 'state_id': 1703, 'state_code': '78', 'state_name': 'Calabria', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '38.29337000', 'longitude': '15.98390000', 'wikiDataId': 'Q3882791'}, AS 78696",Guadalupe Victoria,Tamaulipas,Mexico
+272,"371 Marvin Shoals
+{'id': 132545, 'name': 'Kodungallur', 'state_id': 4028, 'state_code': 'KL', 'state_name': 'Kerala', 'country_id': 101, 'country_code': 'IN', 'country_name': 'India', 'latitude': '10.23263000', 'longitude': '76.19513000', 'wikiDataId': 'Q1006282'}, OH 80669",Napkor,Szabolcs-Szatmár-Bereg County,Hungary
+273,"0629 Kristy Extensions
+{'id': 70267, 'name': 'El Ámbar', 'state_id': 3451, 'state_code': 'CHP', 'state_name': 'Chiapas', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '17.02500000', 'longitude': '-92.83417000', 'wikiDataId': 'Q20277267'}, DE 98664",Angwin,California,United States
+274,"451 Shane Overpass Suite 084
+{'id': 152803, 'name': 'Talveila', 'state_id': 1208, 'state_code': 'SO', 'state_name': 'Soria', 'country_id': 207, 'country_code': 'ES', 'country_name': 'Spain', 'latitude': '41.78368500', 'longitude': '-2.96724480', 'wikiDataId': 'Q832173'}, WI 08103",San Pablo Ixayoc,Estado de México,Mexico
+275,"9319 Brown Terrace
+{'id': 45633, 'name': 'Roumare', 'state_id': 4804, 'state_code': 'NOR', 'state_name': 'Normandie', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '49.51008000', 'longitude': '0.97422000', 'wikiDataId': 'Q1437611'}, DC 77863",Shōbu,Saitama,Japan
+276,"USNV Brady
+FPO AE 43774",Giehun,Eastern,Sierra Leone
+277,"871 Dana Row
+{'id': 113807, 'name': 'Chatsworth', 'state_id': 1416, 'state_code': 'CA', 'state_name': 'California', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '34.25723000', 'longitude': '-118.60120000', 'wikiDataId': 'Q1020942'}, OR 00621",Cà Dè Fabbri,Emilia-Romagna,Italy
+278,"5691 Kathleen Village Suite 324
+{'id': 74983, 'name': 'Santiago de Cuenda', 'state_id': 3469, 'state_code': 'GUA', 'state_name': 'Guanajuato', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '20.59956000', 'longitude': '-100.99405000', 'wikiDataId': 'Q20283764'}, VT 61283",Pleugueneuc,Bretagne,France
+279,"6056 Thomas Wall Apt. 018
+{'id': 25156, 'name': 'Feldkirchen-Westerham', 'state_id': 3009, 'state_code': 'BY', 'state_name': 'Bavaria', 'country_id': 82, 'country_code': 'DE', 'country_name': 'Germany', 'latitude': '47.90748000', 'longitude': '11.84266000', 'wikiDataId': 'Q532758'}, GU 54094",Starcevica,Republika Srpska,Bosnia and Herzegovina
+280,"251 Jennifer Valleys Suite 449
+{'id': 31220, 'name': 'Villa Tapia', 'state_id': 4089, 'state_code': '19', 'state_name': 'Hermanas Mirabal', 'country_id': 62, 'country_code': 'DO', 'country_name': 'Dominican Republic', 'latitude': '19.30084000', 'longitude': '-70.42199000', 'wikiDataId': 'Q1770889'}, OR 65781",Castel di Tora,Lazio,Italy
+281,"38275 Brandon Path Suite 490
+{'id': 87546, 'name': 'Powiat kozienicki', 'state_id': 1637, 'state_code': 'MZ', 'state_name': 'Mazovia', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '51.63946000', 'longitude': '21.49580000', 'wikiDataId': 'Q947574'}, AR 79159",Monterusciello,Campania,Italy
+282,"6111 Miller Plains
+{'id': 26206, 'name': 'Hohenhameln', 'state_id': 3008, 'state_code': 'NI', 'state_name': 'Lower Saxony', 'country_id': 82, 'country_code': 'DE', 'country_name': 'Germany', 'latitude': '52.25755000', 'longitude': '10.06416000', 'wikiDataId': 'Q569132'}, FL 61733",Glinka,Smolensk,Russia
+283,"Unit 1059 Box 1530
+DPO AE 24903",Edelstauden,Styria,Austria
+284,"744 Ramirez Drives
+{'id': 8379, 'name': 'Sapna', 'state_id': 467, 'state_code': 'BIH', 'state_name': 'Federation of Bosnia and Herzegovina', 'country_id': 28, 'country_code': 'BA', 'country_name': 'Bosnia and Herzegovina', 'latitude': '44.50380000', 'longitude': '18.99818000', 'wikiDataId': 'Q1754436'}, CT 64546",Munayzir,'Asir,Saudi Arabia
+285,"1628 Michael Island
+{'id': 49444, 'name': 'Edwinstowe', 'state_id': 2336, 'state_code': 'ENG', 'state_name': 'England', 'country_id': 232, 'country_code': 'GB', 'country_name': 'United Kingdom', 'latitude': '53.19454000', 'longitude': '-1.06439000', 'wikiDataId': 'Q994882'}, GU 98994",Latrobe,Victoria,Australia
+286,"4677 Coleman Summit Apt. 180
+{'id': 53363, 'name': 'Zográfos', 'state_id': 2122, 'state_code': 'I', 'state_name': 'Attica', 'country_id': 85, 'country_code': 'GR', 'country_name': 'Greece', 'latitude': '37.97574000', 'longitude': '23.76911000', 'wikiDataId': 'Q218375'}, AS 95757",Amilly,Centre-Val de Loire,France
+287,"1787 Jackson Throughway
+{'id': 94433, 'name': 'Grădina', 'state_id': 4737, 'state_code': 'CT', 'state_name': 'Constanța', 'country_id': 181, 'country_code': 'RO', 'country_name': 'Romania', 'latitude': '44.55520000', 'longitude': '28.43236000', 'wikiDataId': 'Q1028459'}, ME 93960",Maglione,Piedmont,Italy
+288,"68170 Stokes Streets
+{'id': 86391, 'name': 'Gryfino', 'state_id': 1633, 'state_code': 'ZP', 'state_name': 'West Pomerania', 'country_id': 176, 'country_code': 'PL', 'country_name': 'Poland', 'latitude': '53.25243000', 'longitude': '14.48831000', 'wikiDataId': 'Q186441'}, PW 88298",Schwarme,Lower Saxony,Germany
+289,"366 Luna Junctions
+{'id': 98091, 'name': 'Buynaksk', 'state_id': 1850, 'state_code': 'DA', 'state_name': 'Dagestan', 'country_id': 182, 'country_code': 'RU', 'country_name': 'Russia', 'latitude': '42.81900000', 'longitude': '47.11920000', 'wikiDataId': 'Q132931'}, WV 67603",Auzances,Nouvelle-Aquitaine,France
+290,"03340 Angela Rue
+{'id': 75538, 'name': 'Tianguistongo', 'state_id': 3465, 'state_code': 'MOR', 'state_name': 'Morelos', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '20.00612000', 'longitude': '-99.03845000', 'wikiDataId': 'Q20244271'}, IN 72700",Thurins,Auvergne-Rhône-Alpes,France
+291,"210 Ronnie Place Apt. 683
+{'id': 74673, 'name': 'Santa Isabel', 'state_id': 3457, 'state_code': 'BCN', 'state_name': 'Baja California', 'country_id': 142, 'country_code': 'MX', 'country_name': 'Mexico', 'latitude': '32.63330000', 'longitude': '-115.57605000', 'wikiDataId': 'Q2514296'}, NC 91263",Kerasochóri,Central Greece,Greece
+292,"542 Emily Ridge Suite 770
+{'id': 43154, 'name': 'Le Cannet', 'state_id': 4812, 'state_code': 'PAC', 'state_name': 'Provence-Alpes-Côte-d’Azur', 'country_id': 75, 'country_code': 'FR', 'country_name': 'France', 'latitude': '43.57662000', 'longitude': '7.01912000', 'wikiDataId': 'Q207967'}, NV 42750",Bromsgrove,England,United Kingdom
+293,"68006 Medina Extensions Apt. 348
+{'id': 63251, 'name': 'Arai', 'state_id': 841, 'state_code': '15', 'state_name': 'Niigata', 'country_id': 109, 'country_code': 'JP', 'country_name': 'Japan', 'latitude': '37.00059000', 'longitude': '138.22590000', 'wikiDataId': 'Q146790'}, MN 96807",Dadunqiu,Tianjin,China
+294,"04619 Odom Plain
+{'id': 108511, 'name': 'Susuz', 'state_id': 2208, 'state_code': '36', 'state_name': 'Kars', 'country_id': 225, 'country_code': 'TR', 'country_name': 'Turkey', 'latitude': '40.77910000', 'longitude': '43.12769000', 'wikiDataId': 'Q917836'}, HI 86297",Mine Shi,Yamaguchi,Japan
+295,"1144 Stephen Road Apt. 993
+{'id': 64145, 'name': 'Niseko Town', 'state_id': 832, 'state_code': '01', 'state_name': 'Hokkaidō', 'country_id': 109, 'country_code': 'JP', 'country_name': 'Japan', 'latitude': '42.77871000', 'longitude': '140.66903000', 'wikiDataId': 'Q290326'}, NV 19674",Sidlaghatta,Karnataka,India
+296,"115 Anna Key
+{'id': 123355, 'name': 'Odem', 'state_id': 1407, 'state_code': 'TX', 'state_name': 'Texas', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '27.95057000', 'longitude': '-97.58222000', 'wikiDataId': 'Q953672'}, SD 42651",Ivaiporã,Paraná,Brazil
+297,"9719 Henry Camp Apt. 665
+{'id': 128477, 'name': 'Warren', 'state_id': 1440, 'state_code': 'IN', 'state_name': 'Indiana', 'country_id': 233, 'country_code': 'US', 'country_name': 'United States', 'latitude': '40.68282000', 'longitude': '-85.42720000', 'wikiDataId': 'Q2384658'}, MA 80868",Marina de Cudeyo,Cantabria,Spain
+298,"160 Brad Roads
+{'id': 3611, 'name': 'Traismauer', 'state_id': 2065, 'state_code': '3', 'state_name': 'Lower Austria', 'country_id': 15, 'country_code': 'AT', 'country_name': 'Austria', 'latitude': '48.35000000', 'longitude': '15.73333000', 'wikiDataId': 'Q305159'}, FL 04555",Bambadjani,Grande Comore,Comoros
+299,"0935 John Park
+{'id': 29423, 'name': 'Straelen', 'state_id': 3017, 'state_code': 'NW', 'state_name': 'North Rhine-Westphalia', 'country_id': 82, 'country_code': 'DE', 'country_name': 'Germany', 'latitude': '51.44190000', 'longitude': '6.26639000', 'wikiDataId': 'Q33496679'}, PR 27952",Colonia Emiliano Zapata Ejido de Tenancingo,Estado de México,Mexico
+300,"57950 Alexis Port
+{'id': 139060, 'name': 'Granarolo', 'state_id': 1773, 'state_code': '45', 'state_name': 'Emilia-Romagna', 'country_id': 107, 'country_code': 'IT', 'country_name': 'Italy', 'latitude': '44.35859000', 'longitude': '11.93459000', 'wikiDataId': 'Q2293125'}, NY 44245",Innisfil,Ontario,Canada
