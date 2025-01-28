@@ -82,27 +82,7 @@ These tests ensured reliability across the pipeline.
 1. **Orchestration with Airflow**: Automating tasks like data ingestion, transformation, and reporting.
 2. **Advanced Analytics**: Expanding the pipeline to support additional metrics and insights.
 
----
 
-## How to Use This Repository
-
-### Prerequisites
-- Python 3.x
-- Snowflake account
-- dbt installed and configured
-
-### Getting Started
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   ```
-2. Navigate to the project directory and configure `dbt_project.yml` to point to your Snowflake instance.
-3. Run the dbt models:
-   ```bash
-   dbt run
-   ```
-
----
 
 
 
