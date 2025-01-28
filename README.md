@@ -39,7 +39,7 @@ Key design considerations included:
 ### 3. **Data Generation**
 
 Since real-world datasets were unavailable, I generated realistic fake data to simulate app usage:
-- **Tools**: Python, using functions with lambda expressions and conditional logic.
+- **Tools**: Python, Faker library together with lambda expressions and conditional logic.
 - **Validation**: Ensured coherence in relationships, such as city-state-country hierarchies and chronological consistency in dates.
 
 This process gave me hands-on experience in data preparation and managing raw data challenges.
